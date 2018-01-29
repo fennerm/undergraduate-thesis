@@ -1,0 +1,19 @@
+ID,Position (bp),Type,Mutation,Freq.,Region,Effect,Context
+CYC-97,625-626,Deletion,CT$\rightarrow$C,0.01,ND2,Frameshift,AAGAATGCC\textbf{\st{T}}TTTTTTT
+CYC-237,1000,Base Sub,T$\rightarrow$C,0.99,ND2,Missense,GCTTTTAG\textbf{\underline{C}}TGGGGGGG
+CYC-17,2888,Insertion,T$\rightarrow$T(C),0.02,Cox1,Frameshift,CATTCTTTT\textbf{\underline{C}}CCCCCCC
+CYC-237,4066,Base Sub,C$\rightarrow$T,0.02,ATP6,Missense,TGTTTGCC\textbf{\underline{T}}TTCCCTGA
+CYC-237,4940-4941,Deletion,AT$\rightarrow$A,0.01,Cox3,Frameshift,TTTGTCTCA\textbf{\st{T}}TTTTTTG
+CYC-17,6734,Insertion,T$\rightarrow$T(C),0.02,ND5,Frameshift,ATCGAAGTT\textbf{\underline{C}}CCCCCCCC
+ASEX-41,7355,Base Sub,G$\rightarrow$A,0.09,ND5,Synonymous,CAAGCAGA\textbf{\underline{A}}AAGGGAAT
+CYC-237,8036,Base Sub,A$\rightarrow$G,0.07,t-RNA, ,GGGATAGA\textbf{\underline{G}}CAGGAAAA
+CYC-237,8833-8834,Deletion,TA$\rightarrow$T,0.02,ND4,Frameshift,CCCTGCCCT\textbf{\st{A}}AAAAAAA
+CYC-17,11692,Base Sub,C$\rightarrow$T,0.13,ND1,Synonymous,CAATCACC\textbf{\underline{T}}CCCAAAAA
+CYC-97,11695-11696,Deletion,CA$\rightarrow$C,0.01,ND1,Frameshift,TCACCCCCC\textbf{\st{A}}AAAAAAT
+CYC-237,12290-12291,Deletion,AC$\rightarrow$A,0.01,ND1,Frameshift,GCTGAAGAA\textbf{\st{C}}CCCCCCC
+CYC-237,12539-12540,Deletion,TC$\rightarrow$T,0.02,l-rRNA, ,TAAGAGCTT\textbf{\st{C}}CCCCTAT
+ASEX-41,12949,Base Sub,T$\rightarrow$A,1,l-rRNA, ,AACGCATT\textbf{\underline{A}}AAGCTTTT
+ASEX-12,14758,Base Sub,T$\rightarrow$A,0.95,D-Loop, ,CGAGGGGA\textbf{\underline{A}}CCCCCCCC
+ASEX-12,14758,Insertion,T$\rightarrow$(A)C$^{1}$,0.1,D-Loop, ,CGAGGGGAA\textbf{\underline{C}}CCCCCCC
+ASEX-41,14830-14831,Deletion,AT$\rightarrow$A,0.89,D-Loop, ,TCTTTTTTA\textbf{\st{T}}TTTTTTT
+CYC-237,14830-14832,Deletion,ATT$\rightarrow$A,0.04,D-Loop, ,TCTTTTTTA\textbf{\st{TT}}TTTTTT

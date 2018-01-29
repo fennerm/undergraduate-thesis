@@ -1,0 +1,73 @@
+#!/bin/bash
+
+ref=$(readlink -f "$1")
+refdir=$(dirname "$ref")
+
+# Create sequence dictionary
+picard CreateSequenceDictionary R="$ref" O="${ref%%.fa}.dict"
+dict=$(readlink -f "${ref}.dict")
+
+# Create realign intervals
+gatk -T RealignerTargetCreator -R "$ref" -o "${ref}.intervals"
+intervals=$(readlink -f "${ref}.intervals")
+
+mkdir -p "../bam"
+
+# Convert SAM to BAM
+for f in *.sam
+do
+	samtools1.3 view -b -h -T "$ref" -o "../bam/${f%%.sam}.bam" -@ 46 "$f"
+done
+
+cd "../bam"
+
+# Sort BAM file
+for f in *.bam
+do 
+	samtools1.3 sort -o "${f%%.bam}.sorted.bam" -@ 46 "$f"
+done
+
+
+# Add read groups
+i=1
+for f in *.sorted.bam
+do
+	picard AddOrReplaceReadGroups INPUT="$f" RGID="$i" OUTPUT="${f%%.bam}.grouped.bam" RGLB="${f%%.bam}" RGPL="illumina" RGPU="unknown" RGSM="${f%%.bam}"
+	i=$((i+1))
+done
+
+# Index BAM files
+for f in *.grouped.bam
+do 
+	samtools1.3 index "$f"
+done
+
+# Local Realignment
+for f in *.grouped.bam
+do
+	gatk -T IndelRealigner -R "$ref" -I "$f" -targetIntervals "$intervals" -o "${f%%.bam}.realign.bam" 
+done
+
+for f in *realign.bam
+do
+	samtools1.3 index $f
+done 
+
+# Mark Duplicates
+for f in *.realign.bam
+do 
+	picard MarkDuplicatesWithMateCigar INPUT="$f" OUTPUT="${f%%.bam}.mrkdup.bam" METRICS_FILE="markdup.log"
+done
+
+#Assign indel Quality Scores
+for f in *.mrkdup.bam
+do
+	lofreq indelqual --dindel -f $ref -o ${f%%.bam}.indelqual.bam $f
+done
+
+#Index bam files
+for f in *indelqual.bam
+do
+	samtools1.3 index $f
+done 
+

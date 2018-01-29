@@ -1,0 +1,19 @@
+Sample ID,Position (bp),Type,Mutation,Allele Frequency,Region,Predicted Effect,Context
+CYC-97,625-626,Deletion,CT$\rightarrow$C,0.01,ND2,Frameshift,TTAAGAATGCC\textbf{\st{T}}TTTTTTTAT
+CYC-237,1000,SNV,T$\rightarrow$C,0.99,ND2,Missense,TTGCTTTTAG\textbf{\underline{C}}TGGGGGGGTT
+CYC-17,2888,Insertion,T$\rightarrow$T(C),0.02,Cox1,Frameshift,AGCATTCTTTT\textbf{\underline{C}}CCCCCCCGCTG
+CYC-237,4066,SNV,C$\rightarrow$T,0.02,ATP6,Missense,TTTGTTTGCC\textbf{\underline{T}}TTCCCTGAGG
+CYC-237,4940-4941,Deletion,AT$\rightarrow$A,0.01,Cox3,Frameshift,TTTTTGTCTCA\textbf{\st{T}}TTTTTTGGG
+CYC-17,6734,Insertion,T$\rightarrow$T(C),0.02,ND5,Frameshift,AAATCGAAGTT\textbf{\underline{C}}CCCCCCCCGT
+ASEX-41,7355,SNV,G$\rightarrow$A,0.09,ND5,Synonymous,ATCAAGCAGA\textbf{\underline{A}}AAGGGAATTT
+CYC-237,8036,SNV,A$\rightarrow$G,0.07,t-RNA His, ,ATGGGATAGA\textbf{\underline{G}}CAGGAAAAAG
+CYC-237,8833-8834,Deletion,TA$\rightarrow$T,0.02,ND4,Missense,CCCCCTGCCCT\textbf{\st{A}}AAAAAAAGT
+CYC-17,11692,SNV,C$\rightarrow$T,0.13,ND1,Synonymous,AACAATCACC\textbf{\underline{T}}CCCAAAAAAA
+CYC-97,11695-11696,Deletion,CA$\rightarrow$C,0.01,ND1,Frameshift,AATCACCCCCC\textbf{\st{A}}AAAAAATGA
+CYC-237,12290-12291,Deletion,AC$\rightarrow$A,0.01,ND1,Frameshift,GGGCTGAAGAA\textbf{\st{C}}CCCCCCCAA
+CYC-237,12539-12540,Deletion,TC$\rightarrow$T,0.02,l-rRNA, ,TGTAAGAGCTT\textbf{\st{C}}CCCCTATCT
+ASEX-41,12949,SNV,T$\rightarrow$A,1,l-rRNA, ,CAAACGCATT\textbf{\underline{A}}AAGCTTTTTC
+ASEX-12,14758,SNV,T$\rightarrow$A,0.95,D-Loop, ,TTCGAGGGGA\textbf{\underline{A}}CCCCCCCCCT
+ASEX-12,14758,Insertion,T$\rightarrow$(A)C,0.1,D-Loop, ,TTCGAGGGGAA\textbf{\underline{C}}CCCCCCCCT
+ASEX-41,14830-14831,Deletion,AT$\rightarrow$A,0.89,D-Loop, ,TCTCTTTTTTA\textbf{\st{T}}TTTTTTTTT
+CYC-237,14830-14832,Deletion,ATT$\rightarrow$A,0.04,D-Loop, ,TCTCTTTTTTA\textbf{\st{TT}}TTTTTTTT

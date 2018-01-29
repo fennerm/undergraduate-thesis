@@ -1,0 +1,302 @@
+okular(12295)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12295)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12295)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12295)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12295)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12295): BEGIN: Loading backend
+okular(12295)   BackendLoader::init: Loading "XRandR" backend
+okular(12295): END__: Loading backend [Took: 0.022s]
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12684)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12684)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12684)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12684)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12684)/kdecore (KConfigSkeleton) KCoreConfigSkeleton::writeConfig:
+okular(12684): BEGIN: Loading backend
+okular(12684)   BackendLoader::init: Loading "XRandR" backend
+okular(12684): END__: Loading backend [Took: 0.022s]
+okular(12684) Okular::Utils::realDpi: Found widget at output # 67
+okular(12684) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12684) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12684) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12684) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12684) Okular::Utils::realDpi: Found widget at output # 67
+okular(12684) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12684) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12684) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12684) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12684) Okular::Utils::realDpi: Found widget at output # 67
+okular(12684) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12684) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12684) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12684) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't find trailer dictionary"
+okular(12295) PDFGeneratorPopplerDebugFunction: [Poppler] "Error: Couldn't read xref table"
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)
+okular(12295) Okular::Utils::realDpi: Found widget at output # 67
+okular(12295) Okular::Utils::realDpi: Output size is (mm)  QSize(344, 194)
+okular(12295) Okular::Utils::realDpi: Output rect is  QRect(0,0 1360x768)
+okular(12295) Okular::Utils::realDpi: EDID WxH (cm):  34 x 19
+okular(12295) Okular::DocumentPrivate::openDocumentInternal: Output DPI: QSizeF(100.419, 100.553)

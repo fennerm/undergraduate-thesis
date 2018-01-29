@@ -1,0 +1,19 @@
+Sample ID,Position (bp),Mutation Type,Reference Allele,Novel Allele,Allele Frequency,Region, Predicted Effect
+TCO97,625-626,Deletion,CT,C,0.01,ND2,Frameshift
+TCO237,1000,SNV,T,C,0.99,ND2,Missense
+TCO17,2888,Insertion,T,T(C),0.02,Cox1,Frameshift
+TCO237,4066,SNV,C,T ,0.02,ATP6,Missense
+TCO237,4940-4941,Deletion,AT,A,0.01,Cox3,Frameshift
+TCO17,6734,Insertion,T,T(C),0.02,ND5,Frameshift
+L41,7355,SNV,G,A,0.09,ND5,Synonymous
+TCO237,8036,SNV,A,G,0.07,t-RNA His,
+TCO237,8833-8834,Deletion,TA,T ,0.02,ND4,Missense
+TCO17,11692,SNV,C,T ,0.13,ND1,Synonymous
+TCO97,11695-11696,Deletion,CA,C,0.01,ND1,Frameshift
+TCO237,12290-12291,Deletion,AC,A,0.01,ND1,Frameshift
+TCO237,12539-12540,Deletion,TC,T ,0.02,l-rRNA,
+L41,12949,SNV,T,A,1.00,l-rRNA,
+L12,14758,SNV,T,A,0.95,D-loop,
+L12,14758,Insertion,T,(A)C,0.10,D-loop,
+L41,14830-14831,Deletion,AT,A,0.89,D-loop,
+TCO237,14830-14832,Deletion,ATT,A,0.04,D-loop,

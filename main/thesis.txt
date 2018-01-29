@@ -1,0 +1,626 @@
+                  Mitochondria!
+
+
+
+
+
+
+                     A  Thesis
+                   Presented  to
+The Division of Mathematics   and  Natural Sciences
+                   Reed  College
+
+
+
+
+
+              In Partial Fulﬁllment
+       of the Requirements   for the Degree
+                 Bachelor  of Arts
+
+
+
+
+
+
+                  Fenner  Macrae
+                    May   2016
+
+
+
+
+Approved for the Division
+       (Biology)
+
+
+    Sarah Schaack
+
+
+
+
+Acknowledgements
+
+
+
+
+Table of Contents
+
+
+
+
+List of Tables
+
+
+
+
+List of Figures
+
+
+
+
+Abstract
+
+
+
+
+Dedication
+
+
+
+
+Introduction
+
+
+
+Mitochondrial               Evolutionary               History
+
+The  advent  of modern    molecular   classiﬁcation   techniques   has complicated    the notion
+of the three  clearly  dilineated  domains    of life, Archaea,   Bacteria  and   Eukarya.   The
+pre-genetic  Darwinian    model   of speciation   can  be represented   as a tree  with  lineages
+represented   by  branches   evolving  and   diverging   in isolation.  Numerous    examples   of
+transfer  of genetic  material   between   divergent    lineages have  now   been  documented,
+suggesting   that the  tree  metaphor    is an inadaquate    representation.    Horizontal  gene
+transfer  (HGT)    is ubiquitous    in  bacteria  and   archaea   and   may   be  the  dominant
+driver of genetic  diversity  (?)  HGT    is rare in  multicellular eukaryotes   but  horizontal
+transfer of transposable    elements   may   play an   important  role  in eukaryotic  evolution
+(?). Additionally,   phylogenetic    analysis  has  shown   that  a signiﬁcant   fraction  of the
+mammalian     genome   is of viral origin  due  to retroviral  integration  events  (?). In light
+of this evidence  we  should  not  solely view  the  genome   as the product   of diversiﬁcation
+within  a single  lineage  but  instead   as a  chimera   of genetic  material   from  divergent
+lineages.
+    The  origin  of mitochondria    represents   an  important   example   of genetic  exchange
+in the  eukaryotic   lineage.   Mitochondria     are  a  type  of membrane     bound   organelle
+found   in eukaryotic   cells  which,  like  plastids   and  peroxisomes,    carry  out  integral
+metabolic   processes  for  their  hosts.  The   discovery   that  mitochondria    possess  their
+own  genome    isolated from   the nuclear   genome    provided  the  ﬁrst strong  indication  of
+their separate  origin (?).  Later  sequence   analysis   showed  that  genes  in the mitochon-
+drial genome    and  nuclear   genes  involved   in mitochondrial    function   are homologous
+to α-proteobacteria    while   the rest  of the  nuclear  genome    is archaeal  in origin  (??).
+This  suggests  that  the  membrane     bound   nucleus,   the deﬁning   feature  of eukaryotes,
+evolved  in the  archaeal  lineage.  Later   this proto-eukaryote    internalized  the  bacterial
+progenitor   to mitochondria.     The   internalized   bacteria  are thought   to  have  become
+endosymbionts     which   freely replicated   inside  their host  and  while  provided   it some
+
+
+2                                                                                  Introduction
+
+selective advantage.     This  bacteria   would   have   originally possessed   a large  genome
+which  approximated     its host  in complexity.    Eventually   due  to relaxation  of selective
+pressure,  genes  required   for  free living  were  lost  or transferred  to the  host  genome
+in a process   called  endosymbiontic     gene   transfer  (?).  The  precise  evolutionary    ex-
+planation   for how  and  why   the  mitochondrial    progenitor   ﬁrst entered  its host  is still
+debated   with  both  phagocytic    and  symbiotic   hypotheses    proposed.
+
+Phagocytic      Origin
+The  earliest formulation   of endosymbiontic     theory  proposed   that mitochondria    are  de-
+rived from   bacteria  which   were  phagocytosed     but  not digested  by an  early  eukaryote
+(Figure  ??A)   (?). Later  supporters    of this hypothesis   have  argued  that  the evolution
+of the nucleus  in eukaryotes    is a key  enabling   factor for phagotrophy    (?) Modern     eu-
+karyotic  phagotrophs    digest  cells in  their cytoplasm    and  make  extensive   use of their
+cytoskeletal  architecture   to  pursue   and  internalize   prey.  Phylogenetic   analysis  sug-
+gests that  the  ﬁrst  eukaryote    was  almost   certainly  phagotrophic    (?).  However    this
+does  not negate   the possibility   that  phagotrophy    evolved   in the archaeal  ancestor   of
+eukaryotes   before the  evolution   of the nucleus.   Phagocytic   explanations   for the origin
+of mitochondria    predict  that  the  evolution  of the  nucleus  predates  the  mitochondria.
+If the nucleus   evolved  ﬁrst  it is plausible  that  certain  eukaryotic   lineages  might   ex-
+ist which  contain  a  nucleus   but  do  not  have  any  mitochondria    or related  organelles.
+Until recently  a  class of unicellular   eukaryotes   named   Archezoa   were  thought   to lack
+mitochondria    (?). Archezoa    consisted   of unicellular  eukaryotes  such  as microsporidia
+and  diplomonads    and  were  thought    to represent  an  intermediate  link between   eukary-
+otes and   archaea.   However    these   organisms   were   later shown   to contain   organelles
+derived  from  mitochondria    but   which  had  lost their genome    (??) Since  then  no  inter-
+mediate   links have  been   found   and  mitochondria     are now   thought  to  be  ubiquitous
+in eukaryotes.
+
+Symbiotic     Origin
+
+A  second  class of theories  suggest   that  mitochondria    were  acquired  from   a symbiotic
+relationship  between   archaeal    and  bacterial  cells (Figure  ??B).  Under   the  hydrogen
+hypothesis,   the most   well supported    of these  theories,  the nucleus  and  mitochondria
+were  introduced   in the  same   event   (?). First  a methane    producing   archaeon   associ-
+ated  extracellularly  with   one  or  more  α-proteobacteria     capable  of both  aerobic   and
+anaerobic   metabolism.     In  anaerobic   conditions    the bacteria  produce   hydrogen    gas
+
+
+Introduction                                                                                     3
+
+and  carbon   dioxide   as waste   products   which   are  digested   by  the  archaeon.   Even-
+tually the  archaeon    internalizes  the bacterium    via  an undescribed     mechanism.    One
+testable prediction   of  the hydrogen    hypothesis   is that the  archaeal   progenitor  of  eu-
+karyotes  should   be  a  methanogen.      Extensive    HGT    among    archaeal   and  bacterial
+lineages makes   this  diﬃcult   to  test in practice  however    since  the  existence  of genes
+within  a lineage does   not  deﬁnitely  prove  anything   (?).  Also  predicts  that  mitochon-
+drial progenitor   should   have  genes   for both  aerobic   and  anaerobic    conditions.   also
+complicated   by  HGT.    Hydrogenosomes      support   this hypothesis.
+
+
+
+
+
+Present    Diversity
+
+Mitochondria    are  now   thought    to be  ubiquitous    in eukaryotes.     Regardless   of the
+precise timeline,  the   introduction   of  mitochondria    into  eukaryotic   cells occurred   at
+an extremely    early  period   in eukaryotic   diversiﬁcation.    Accordingly,    mitochondria
+express  considerable    functional  and   genetic  diversity  among    eukaryotes.   Mitochon-
+dria can be  broadly   separated   into three  classes found  in diﬀerent   eukaryotic  lineages:
+classical mitochondria,    hydrogenosomes      and  mitosomes     (?)  Despite  their  widely  di-
+vergent  function  it is now  commonly     accepted  that  they  are all derived  from  the same
+endosymbiontic    event   (??).  Classical  mitochondria    are  found   in animals,  plants  and
+many   unicellular  eukaryotes.     They   are  primarily  involved   in  ATP    production   but
+also play  important    roles in  apoptosis   and  regulation   of membrane     potentials.   De-
+spite the imprecise    terminology,   it is important    to note  that   classical mitochondria
+are not  necessarily   more   similar to  the  common     mitochondrial    ancestor   than  other
+classes. Hydrogenosomes       are  found   in parabasalids   and   anaerobic   ciliates and  pro-
+duce  ATP   like classical  mitochondria    but  rely on  fermentation    rather  than  the citric
+acid cycle  (?).  Mitosomes     are  found  in  diplomonads    completely    lack  ATP   produc-
+tion, instead their  only  role appears  to  be in the production    of iron-sulfur  clusters (?).
+Intermediate   organelles   exist (Mitochondrion-like     organelles).   In general  only  classi-
+cal mitochondria    have   their own   genome   but  exceptions    exist. Some   taxa   contain  a
+combination   of multiple   classes.  Only   role in common    is in Fe-S   assembly.
+   Mitochondrial     structure   (Figure)   Double   membrane     ribosomes    etc. Protein   tar-
+getting from  nuclear!    We  will focus  on  animal  mitochondria     from  now   on.
+
+
+4                                                                                       Introduction
+
+Animal          Mitochondrial                 Function
+
+Oxidative     Phosphorylation
+
+ATP   synthesis  via  oxidative   phosphorylation     is the  most   important    role  of mitochon-
+dria in  animal  cells.  Energy    sources   come  in  a variety   of sources,   metabolism      is the
+conversion   of these  into  energy   which   can  be  used   readily  in  a number     of  processes.
+adenosine   triphosphate    (ATP)     is the energy   source   used   for the  majority    of  cellular
+work.  The   mitochondria     is the  terminal  node   in the  progressive    metabolism     of nutri-
+ents into  ATP,   the  universal    energy  source.   Major    source   of ATP    in  animal   cells  is
+from  the  electron transfer   chain  which   occurs  at the  mitochondrial     membrane      through
+a series of electron   donors   and  acceptors   utilizing  redox   chemistry.    ATP    is produced
+from  adenosine   diphosphate     (ADP)    via  the addition   of  a phosphate    group.    Electrons
+are passed   to progressively   more   electronegative   compounds      which   each  time   produces
+free energy.   This  energy   is used   to pump    protons   from   the  mitochondrial      matrix   to
+the intermembrane      space   (see  ﬁg)  creating  an  electrochemical     proton   gradient.    This
+creates  potential  energy   which    is used  by ATP     synthase   to  produce    ATP.    ATP   syn-
+thase  if often compared     to  a turbine   in which   the  ﬂow   of protons   causes   the  enzyme
+to spin  and  consecutively    phosphorylate     ADP.    This  entire  process   is called   oxidative
+phosphorylation     (OXPHOS)       or mitochondrial     respiration.
+    Electron   carriers  - coenzyme     Q  (ubiquinone)     and   cytochrome     c.  The    OXPHOS
+pathway    produces   ATP   from    ADP   and   phosphate    (P  ) with  NADH      and   succinate   as
+                                                                i
+inputs.   Input  to  electron   transport    chain  is NADH,      succinate    and  fatty   acylCoAs
+are the  output  of  the citric  acid  cycle, fatty acid   oxidation   and  amino    acid  oxidation.
+Mitochondrial    respiration   fully oxidizes  nutrients   to H   0, CO   , NH    which    are readily
+                                                                 2       2      3
+excreted  from  the  body.   The   successive  oxidation   of these  nutrients   occurs   at spatially
+distinct  mitochondrial    membrane       complexes   I-IV.   In complex     I (NADH:ubiquinone
+                                                   +
+oxidoreductase),    NADH     is oxidized  to NAD     is coupled   to  the reduction    of ubiquinone
+to ubiquinol   (?). Complex      II (succinate:ubiquinone      reductase)   is also  part   of the cit-
+ric acid  cycle, and  couples   the  oxidation   of succinate   to  fumarate    with   the  reduction
+of ubiquinone    to  ubinquinol.     Complex    II does   not  contribute     to the   proton   gradi-
+ent and   hence   only  acts  as  a  source   of ubiquinol    (?).  The   ubiquinol     produced     by
+complexes    I and  II, as  well  as  by  glycerolphosphate     dehydrogenase      and    acylCoAFp
+dehydrogenases-ETF-ETF          dehydrogenase     form   a ubiquinol   pool  which   is fed into  com-
+plex III  (cytochrome    bc  )  (?).  In complex   III  ubiquinol    is oxidized   by  cytochrome     c
+                            1
+and  further  protons   are pumped     into  the intermembrane      space.   Cytochrome      c carries
+
+
+Introduction                                                                                      5
+
+electrons  to the  ﬁnal step,  complex   IV  (cytochome    c oxidase)   where  it reduces  O   into
+                                                                                             2
+H  O.  (all taken  from  Oxidative    Phosphorylation     at  the  ﬁn de  sicle). At  this point  a
+  2
+total of  blah  protons  have   been  pumped    from.
+    The   actual  production   of ATP   via  ATP   synthase   also  occurs  at the  mitochondrial
+membrane      where   proton   motive   force  is used   to  power   the  motor.    ADP    and   P
+                                                                                                   i
+are transported    to  the mitochondria     via the  adenine   translocator   and   the  P  carrier
+                                                                                          i
+respectively.
+
+Apoptosis
+
+Other    functions     inc.   calcium     storage
+Remove     reactive  oxygen   species  membrane      potential   heme+    steroid  synthesis   hor-
+monal   signalling
+
+Mitochondrial                Genetics
+
+Mitochondrial        DNA
+
+Mitochondrial     DNA    (mtDNA)      is a  16  kb  circular   double   stranded   genome    which
+contains   only  about   x  genes.   MtDNA      is present   in  multiple  copy   inside  the  cell.
+The  number     of mtDNA     within  a cell ranges   from  x1-x2,   with considerable    intra and
+interspeciﬁc   variability  as well  as variability  from   cell-cell within  an  organism.   Also
+tissue variance.   The  mtDNA      are housed   inside individual   mitochondria    - x copies  per
+cell and  the  number    of mtDNA     also  varies between    mitochondria.     We  can  therefore
+examine    mtDNA     at a  large  number    of population    genetic  levels: the   mitochondria,
+the cell, the  tissue, the organism   and  the  organismal    population.   Fusion   and  ﬁssion of
+mitochondria     mean   that  individual   mitochondrial    genotypes    are not   isolated within
+mitochondria.     MtDNA     is maternally   inherited in  the vast  majority  of  eukaryotes  with
+oﬀspring   getting  their mtDNA      genotype   from  their  mother.
+    Among    animals   the gene   content  of mtDNA     is remarkably   conserved.    MtDNA     are
+typically   16  kb  long  with  37  conserved   genes.   Of  these  genes,  13  code  for proteins
+involved   in the  OXPHOS      system,   2 are  rRNAs    and  22  are  tRNAs.    The   tRNAs   and
+rRNAs    are  involved   speciﬁcally   the  translation   of mitochondrial     proteins.   Animal
+mtDNA      typically  contains   37  conserved    genes  which    are  transcribed   continuously
+into polycistronic   molecules   which  are  cleaved  (Figure).   Additionally   mtDNA     contain
+an  approximately     1  kb  untranscribed     regulatory   region   named   the   control  region.
+
+
+6                                                                                     Introduction
+
+The  genes   found  in mtDNA      represent  a  very  small  subset   of the  approximately    1000
+genes  which   have   been  found   to be  contained    in  mitochondria     (?)  A  large  number
+of mitochondrial     genes  are  also found    in nuclear   genome     and  are  later targeted   to
+mitochondria.     The  majority   of these   genes   are thought    to have   originally been  part
+of the  mtDNA      genome    but  were  later  transferred    in  to mitochondria     in a  process
+called  endosymbiontic     gene  transfer.   Unlike   the  eukaryotic   nuclear   genome   but  like
+bacterial  genomes    mtDNA     is almost   entirely  coding.    Due   to its small  genome   size  -
+was among    the  ﬁrst to be sequenced    and  is frequently   used  in constructing   phylogenies
+due  to its conserved    gene  set and  multiple    copies  per  cell. It is clear that  due  to  its
+unique   mode   of inheritance   and  multiple    copy  per  cell, our  models   for the  evolution
+of the  nuclear  genome    do  not  necessarily   apply   to mtDNA      and   diﬀerent  models   are
+required.   mtDNA     frequently   used for  phylogenetic    analysis.
+
+
+Mutation      Rate
+Mitochondrial    mutation    rate  varies considerably     in eukaryotes.    Historically  the  mu-
+tation  rate  in  eukaryotic   mtDNA      was  thought    to  be   very  low.   However    as  more
+mutation    rates  have  been   calculated   it has  been   found   that  this  result was   due  to
+most   studies  being   done   in plants   (?).   It is  now   known    that  mutation    rates  are
+lower  than  the  nuclear  mutation   rate  in plants   but  that  in animals   the mitochondrial
+mutation    rate is considerably    higher  than   the  nuclear.    However    mutation   rates  are
+extremely   variable   and  exceptions  to  the  rule  have  been   seen  in both  plants  and  ani-
+mals  (see Sloan   and  Taylor).  This  is consistent   with  the  emerging    view that  mutation
+rate is a trait like  other traits  and  is under   the forces  of drift  and  selection like other
+traits with   phenotypic    eﬀects.  Since   mutation    is the  ultimate    cause  of any  genetic
+variation,  these  diﬀerences   in  mutation    rates  likely themselves    stem   from  mutation.
+Considerable    debate   exists about  the  cause   of these  diﬀerences    in mutation   rate with
+both  mechanistic    and   selective hypothesis    being   put  forward.    This  increased   muta-
+tion rate   in animals   could   be  caused   by  more   mutagenic     envionment,     low  eﬃgacy
+mutation    repair.   Ultimately    this might    be  caused    by  selection   or drift.  Muller’s
+ratchet  suggests   that  continued   high  mutation     rate  without   recombination    will  lead
+to a degradation    of phenotype    and   eventual   extinction   (?).  Note   that DNA    repair  is
+handled   by  nuclear  genome    (?).
+    Indirect  estimates    of mutationrate     from   substitution    at neutral   sites/ dn/ds   or
+genome    divergence   have  been   made   in  many    species  (see  Smith,   2015  for a review).
+If a sequence   is not  under   any  selection  - its sub  rate  is equal   to the  mutation   rate.
+
+
+Introduction                                                                                         7
+
+BUT   diﬃcult   to  tell whether    a sequence    is under   selection  due  to regulation   but  ad-
+jacent/ﬂanking    eﬀects.    Lots   of selection    occurs  at  synonymous     sites.  Furthermore
+synonymous     sites may    actually   have   a  higher  mutation    rate due   to GC   content   dif-
+ferences (?).  Also  divergence     based  estimates    assume   that  only  a single mutation    has
+occured  at  a given   site  - in  cases  where    mult  mutations     have  occured   the  estimate
+is biased downwards.       Although    this  problem    is addressed    in Nabholz   et  al. by  sub-
+dividing  into  smaller   taxonomic     groups.     A  beneﬁt   of  this method    however    is that
+any  available sequencing     data   can  be  used  so  lots of comparisons    can  be  made   easily.
+(as opposed    to  MA    experiments     which    require   a much    bigger  commitment).       Also
+intraspeciﬁc  polymorphism        can  be mistaken     for interspeciﬁc   variation  (?). These   ap-
+proaches  are  still useful   but  important     to remember     that  they  provide   only  a  lower
+bound.
+    In mutation    accumulation      experiments,    selection  is reduced   by  repeatedly   bottle-
+necking  a population     so that   only  most   severe  (lethal/sterile)  mutations    are ignored.
+Estimates   of mutation    rate  in humans     are  10 fold higher   in direct estimates   (pedigree
+studies) than   in  divergence    based   estimates    (suggesting   weak   selection)  (?).  Gener-
+ally direct estimates    using   mutation    accumulation     or parent-oﬀspring     sequencing   are
+more  accurate  in  estimating    per generation    mutation    rate. Direct  estimates  of  mtDNA
+mutation   rate have   been   made   in Caenorhabditis      elegans  (?), Caenorhabditis     briggsae
+(?)  Drosophila   melanogaster      (?),  Daphnia     pulex  (?),  Saccharomyces     cerevisiae   (?),
+Dictyostelium    discoideum     (?),  Paramecium       tetraurelia  (?)  and   Pristionchus    paciﬁ-
+cus  (?). A  comparison      of  direct  and   indirect  mutation    rate  estimates   with  nuclear
+mutation   rates is presented     in Table   x. These   estimates   are consistent   in ﬁnding   that
+the mitochondrial     mutation     rate is approximately      10-100x   higher  than  the  mutation
+rate of the  nuclear   genome     (check  if true).   MA   experiments     lead to  a dominance     of
+intracellular selection   which    leads  to  increased   replication  but  lack  of respiration  (?)
+Note  that  this also  occurs   in  nuclear   estimates   so more   related  to methodology      than
+speciﬁc  organelle   phenomenon.        Clearly   this  is a very   small  sampling   of  eukaryotic
+diversity so the  true  patterns    of mitochondrial    mutation    rate  remain  to be  elucidated.
+Increased  mutation     rate is a  trait shared   between    organelles  in general  (?).  This  sug-
+gests that there   is some   evolutionary    or  selective factor  unrelated   to the  machinery    of
+mutation   repair.  Either   intracellular   is more   mutagenic    or  there is a beneﬁt   in  being
+more  variable.
+    High  variability  in estimates   at  every  taxonomic    level suggests  that  both  mechanis-
+tic and evolutionary     processes   involved.    Although    mtDNA     damage    repair is encoded
+by nucleus,  diﬀerences    still exist in  repair  between   nuclear   and  mitochondrial    genome
+
+
+8                                                                                  Introduction
+
+(?). Interestingly,  certain key  members    of the  mtDNA     replication  system   are derived
+from viral  genes.  The   ﬁrst observation   of  this found   that yeast  mitochondrial    RNA
+polymerase   is  most  closely  related  to genes   from   bacteriphage    (?)   This  was later
+extended  to  diverse  eukaryotic  lineages  (?). It is now   established  that  many   proteins
+involved in  mitochondrial   replication  are  of bacteriophage    origin suggesting   a simula-
+neous  endosymbiontic     event  (?). Our  understanding     of diﬀerences    in the replication
+and repair  machinery    between    species is currently   very  limited.  Right   now  we have
+only detected   very  obvious  alterations:  for  example   yeast  has  mutS    which  functions
+in mitochondrial    mismatch    repair  but animals    dont  (?).  It is likely that  many   ﬁne
+grained alterations  in these  processes  could  lead to  the diﬀerences  in  mtDNA    mutation
+rate which  we   see.
+   An   attractive/intuitive   evolutionary    explanation    for this  high  mutation    rate is
+that the mitochondria’s     role in the  OXPHOS      system   leads  to more    mutations  (??).
+This makes   intuitive sense  since reactive  oxygen   species are given  oﬀ  during  OXPHOS
+which  are  known   mutagens.     Harsh   blow  against   this theory   is that  proteobacteria
+related to  mitochondria    with   similar ROS    production    dont  have   elevated  mutation
+(see Raven,  2015).   However   evidence   has  not been   supportive   (?)
+   ALternatively     mutation   rate  may   be  related   to generation    time.   Species  with
+shorter generation   time   will have  more   rounds   of replication  in  a given  time  period
+(??)
+   Selection   generally  opposes   mutation   but  the  strength  of selection  varies depend-
+ing on environment.     Longevity    hypothesis   suggests   that selection   on  mitochondrial
+mutation  is stronger   in longer  lived organisms    (?).
+
+Heteroplasmy
+
+Due  to  the  many    mtDNA     copies  per  cell, in  order  to  achieve   ﬁxation   mutations
+must  spread  to  encompass   all mtDNA     in the  cell. Heteroplasmy    is the  coexistence of
+multiple mtDNA      genotypes   in a given  cell.
+
+The   bottleneck
+
+Recombination
+Cases   of  biparental     inheritance
+
+In mollusks  - biparentally   inherited.
+
+
+Introduction                                               9
+
+Debate:   Selection   vs  drift
+Include multiple levels of selection
+Nuclear-Mitochondrial       Genetic  Linkage/Dependency
+
+The    Present        Study
+
+
+
+
+Materials and Methods
+
+
+
+
+Conclusion
+
+
+
+
+Works             Cited
+
+
+Archibald,  J. (2015).   Endosymbiosis    and  Eukaryotic   Cell  Evolution.   Current  Bi-
+  ology, 25(19),  R911–R921.     http://www.sciencedirect.com/science/article/
+  pii/S0960982215008891
+
+Bogenhagen,   D. F. (1999). Repair  of mtDNA    in Vertebrates.  The  American   Journal of
+  Human    Genetics,  64(5),  1276–1281.   http://www.sciencedirect.com/science/
+  article/pii/S000292970762271X
+Cavalier-Smith,  T.  (1987).   Eukaryotes   with  no  mitochondria.    Nature,  326(6111),
+  332–333.
+
+Cermakian,   N.,  Ikeda,  T. M.,   Cedergren,  R.,  &  Gray,   M.  W.  (1996).   Sequences
+  homologous   to yeast mitochondrial   and  bacteriophage   T3  and T7  RNA   polymerases
+  are widespread   throughout   the  eukaryotic  lineage. Nucleic  Acids  Research,  24(4),
+  648–654.  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC145688/
+Charlesworth,   D.   (2010).    Don’t   forget  the  ancestral   polymorphisms.      Hered-
+  ity,  105(6),   509–510.    http://www.nature.com/hdy/journal/v105/n6/full/
+  hdy201014a.html
+Denver,  D. R.,  Morris, K.,  Lynch,   M., Vassilieva,  L. L., &  Thomas,    W.  K. (2000).
+  High  Direct   Estimate   of the  Mutation    Rate   in the  Mitochondrial    Genome   of
+  Caenorhabditis   elegans. Science,  289(5488),   2342–2344.  http://www.sciencemag.
+  org/content/289/5488/2342
+
+Doolittle, W.  F.,  &  Brown,   J. R.  (1994).   Tempo,   mode,   the  progenote,  and  the
+  universal root. Proceedings  of the National  Academy    of Sciences of the United States
+  of America,   91(15),  6721–6728.   http://www.ncbi.nlm.nih.gov/pmc/articles/
+  PMC44275/
+Embley,  M.,  Giezen,  M.  v. d., Horner,  D.  S., Dyal, P.  L., &  Foster, P. (2003).  Mi-
+  tochondria  and  hydrogenosomes     are two  forms  of the same  fundamental   organelle.
+
+
+16                                                                            Works   Cited
+
+  Philosophical  Transactions   of the  Royal  Society  of London   B: Biological Sciences,
+  358(1429),  191–203.   http://rstb.royalsocietypublishing.org/content/358/
+  1429/191
+Esser, C., Martin,   W.,  &   Dagan,   T.  (2007).   The  origin of mitochondria    in light
+  of a ﬂuid  prokaryotic  chromosome     model.   Biology   Letters, 3(2), 180–184.   http:
+  //rsbl.royalsocietypublishing.org/content/3/2/180
+
+Garcia-Vallv, S., Romeu,   A., &  Palau, J. (2000). Horizontal  Gene  Transfer  in Bacterial
+  and  Archaeal   Complete   Genomes.     Genome    Research,   10(11), 1719–1725.    http:
+  //genome.cshlp.org/content/10/11/1719
+Haag-Liautard,   C., Coﬀey,  N.,  Houle,  D., Lynch,  M.,  Charlesworth,  B., &  Keightley,
+  P. D.  (2008).   Direct  Estimation    of the  Mitochondrial    DNA   Mutation    Rate  in
+  Drosophila  melanogaster.     PLoS   Biology,  6(8).  http://www.ncbi.nlm.nih.gov/
+  pmc/articles/PMC2517619/
+
+Harman,  D.  (1972).  The  biologic  clock: the  mitochondria?    Journal of the  American
+  Geriatrics Society,  20(4),  145–147.
+Howe,  D. K.,  Baer,  C.  F., &  Denver,   D.  R. (2010).   High  Rate  of Large  Deletions
+  in Caenorhabditis    briggsae  Mitochondrial    Genome    Mutation   Processes.  Genome
+  Biology  and  Evolution,  2,  29–38.  http://gbe.oxfordjournals.org/content/2/
+  29
+
+Howell, N.,  Smejkal,   C. B.,  Mackey,   D.  A.,  Chinnery,   P. F., Turnbull,   D. M.,  &
+  Herrnstadt,  C.  (2003).  The   Pedigree  Rate  of Sequence   Divergence   in the Human
+  Mitochondrial   Genome:    There  Is a  Diﬀerence   Between   Phylogenetic  and  Pedigree
+  Rates. American    Journal  of Human    Genetics,   72(3), 659–670.  http://www.ncbi.
+  nlm.nih.gov/pmc/articles/PMC1180241/
+Hgerhll, C. (1997).   Succinate:   quinone   oxidoreductases:   Variations  on a  conserved
+  theme.  Biochimica    et Biophysica   Acta  (BBA)    - Bioenergetics, 1320(2),   107–141.
+  http://www.sciencedirect.com/science/article/pii/S0005272897000194
+
+Iwabe, N., Kuma,    K., Hasegawa,    M., Osawa,   S., &  Miyata,  T. (1989).  Evolutionary
+  relationship  of archaebacteria,   eubacteria,  and  eukaryotes   inferred from  phyloge-
+  netic trees of duplicated   genes.  Proceedings   of the  National Academy    of Sciences
+  of the United  States  of America,   86(23),  9355–9359.   http://www.ncbi.nlm.nih.
+  gov/pmc/articles/PMC298494/
+
+
+Works   Cited                                                                               17
+
+Jkely,  G.  (2007).  Origin  of  phagotrophic   eukaryotes   as social cheaters  in microbial
+   bioﬁlms.    Biology  Direct,  2,  3. http://www.ncbi.nlm.nih.gov/pmc/articles/
+   PMC1794243/
+Katzourakis,    A.,  &  Giﬀord,   R.  J. (2010).  Endogenous     Viral  Elements   in Animal
+   Genomes.    PLoS   Genet,  6(11),  e1001191.  http://dx.doi.org/10.1371/journal.
+   pgen.1001191
+
+Kauppila,   J. H.  K., &  Stewart,   J. B. (2015).  Mitochondrial    DNA:   Radically   free of
+   free-radical  driven mutations.   Biochimica   et Biophysica   Acta  (BBA)   - Bioenerget-
+   ics, 1847(11),    1354–1361.    http://www.sciencedirect.com/science/article/
+   pii/S0005272815001103
+Lill, R., & Kispal,  G. (2000).  Maturation  of cellular  FeS proteins: an essential  function
+   of mitochondria.     Trends  in  Biochemical   Sciences,  25(8),  352–356.   http://www.
+   sciencedirect.com/science/article/pii/S0968000400015899
+
+Lynch,   M., &  Blanchard,  J. L. (1998).  Deleterious  mutation   accumulation   in organelle
+   genomes.   Genetica,   102-103(1-6),   29–39.
+Lynch,    M.,  Sung,   W.,  Morris,   K.,  Coﬀey,   N.,   Landry,  C.  R., Dopman,      E.  B.,
+   Dickinson,   W.   J., Okamoto,    K., Kulkarni,   S.,  Hartl, D.  L., &  Thomas,    W.   K.
+   (2008).    A   genome-wide     view  of  the  spectrum    of  spontaneous   mutations     in
+   yeast.   Proceedings   of  the  National  Academy     of Sciences,  105(27),   9272–9277.
+   http://www.pnas.org/content/105/27/9272
+
+Margulis,   L. (1970).  Origin  of Eukaryotic   Cells.  Yale University  Press.
+Martin,   W.,  &   Mller, M.  (1998).   The  hydrogen    hypothesis  for the ﬁrst  eukaryote.
+   Nature,  392(6671),   37–41.
+
+Masters,    B.  S.,  Stohl,  L.  L., &   Clayton,   D.   A.  (1987).   Yeast   mitochondrial
+   RNA    polymerase    is homologous     to those    encoded   by  bacteriophages    T3   and
+   T7.  Cell, 51(1), 89–99.  http://www.sciencedirect.com/science/article/pii/
+   0092867487900134
+
+Molnar,   R.  I., Bartelmes,   G., Dinkelacker,   I., Witte,  H., &  Sommer,    R.  J. (2011).
+   Mutation   Rates  and  Intraspeciﬁc   Divergence   of the Mitochondrial  Genome     of Pris-
+   tionchus   paciﬁcus.   Molecular    Biology  and   Evolution,  28(8),  2317–2326.    http:
+   //mbe.oxfordjournals.org/content/28/8/2317
+
+
+18                                                                              Works   Cited
+
+Muller, H.  J. (1964).   The  relation  of recombination   to  mutational   advance.   Muta-
+  tion Research/Fundamental      and   Molecular  Mechanisms     of Mutagenesis,   1(1), 2–9.
+  http://www.sciencedirect.com/science/article/pii/0027510764900478
+Mller, M.  (1994).   The   hydrogenosome.     Journal   of general   microbiology,  139(12),
+  2879–89.
+
+Nabholz,  B.,  Glmin,   S., &  Galtier,  N. (2008).   Strong  Variations   of Mitochondrial
+  Mutation   Rate  across  Mammalsthe      Longevity  Hypothesis.    Molecular   Biology  and
+  Evolution,  25(1),  120–130.  http://mbe.oxfordjournals.org/content/25/1/120
+Nass,  M.  M.,   &  Nass,   S.  (1963).    INTRAMITOCHONDRIAL               FIBERS    WITH
+  DNA    CHARACTERISTICS.           I. FIXATION      AND    ELECTRON        STAINING     RE-
+  ACTIONS.     The   Journal  of Cell  Biology, 19,  593–611.
+
+Pagliarini, D.  J., Calvo,  S. E.,  Chang,   B., Sheth,   S. A.,  Vafai,  S. B., Ong,  S.-E.,
+  Walford,  G. A., Sugiana,   C., Boneh,  A., Chen,   W.  K., Hill, D. E., Vidal, M., Evans,
+  J. G., Thorburn,    D.  R., Carr,  S.  A., &  Mootha,   V.  K.  (2008).   A mitochondrial
+  protein  compendium     elucidates  complex   I disease biology.   Cell, 134(1),  112–123.
+  http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2778844/
+Papa,  S., Martino,    P. L.,  Capitanio,   G.,  Gaballo,   A.,  Rasmo,    D.  D., Signorile,
+  A., &   Petruzzella,  V.  (2012).   The  Oxidative   Phosphorylation     System   in Mam-
+  malian  Mitochondria.     In R. Scatena,   P. Bottoni,  &  B. Giardina   (Eds.),  Advances
+  in Mitochondrial    Medicine,   no.  942  in Advances    in Experimental     Medicine  and
+  Biology,  (pp.  3–37).   Springer  Netherlands.     DOI:   10.1007/978-94-007-2869-1      1.
+  http://link.springer.com/chapter/10.1007/978-94-007-2869-1_1
+
+Reenan,  R.  A., &  Kolodner,    R. D.  (1992).  Characterization    of insertion  mutations
+  in the  Saccharomyces     cerevisiae  MSH1    and  MSH2    genes:   evidence  for separate
+  mitochondrial   and  nuclear  functions.  Genetics,   132(4),  975–985.
+Saxer, G., Havlak,  P., Fox, S. A., Quance,   M.  A., Gupta,  S., Fofanov,  Y., Strassmann,
+  J. E., &  Queller,  D. C.  (2012).  Whole   Genome    Sequencing    of Mutation   Accumu-
+  lation Lines  Reveals   a Low   Mutation    Rate  in  the Social  Amoeba     Dictyostelium
+  discoideum.   PLoS   ONE,    7(10),  e46759.  http://dx.doi.org/10.1371/journal.
+  pone.0046759
+
+Schaack,  S., Gilbert,   C., &   Feschotte,  C.  (2010).   Promiscuous     DNA:    horizontal
+  transfer  of transposable   elements    and  why   it matters   for eukaryotic   evolution.
+
+
+Works  Cited                                                                               19
+
+  Trends   in ecology &  evolution,   25(9),  537–546.   http://www.ncbi.nlm.nih.gov/
+  pmc/articles/PMC2940939/
+Shiﬂett, A.  M., &  Johnson,   P. J. (2010).  Mitochondrion-related     organelles in eukary-
+  otic protists.  Annual  Review    of Microbiology,   64, 409–429.
+
+Shutt, T. E.,  &  Gray, M.  W.   (2006).  Bacteriophage    origins of mitochondrial   replica-
+  tion and  transcription   proteins.  Trends   in genetics: TIG,   22(2),  90–95.
+Sloan, D.  B.,  &  Taylor,   D.  R.  (2012).   Evolutionary   Rate   Variation  in Organelle
+  Genomes:    The  Role  of Mutational    Processes.   In C. E. Bullerwell  (Ed.), Organelle
+  Genetics,   (pp.  123–146).   Springer   Berlin   Heidelberg.   DOI:   10.1007/978-3-642-
+  22380-8  6. http://link.springer.com/chapter/10.1007/978-3-642-22380-8_
+  6
+Smith,  D.  R.  (2015).  Mutation    rates  in plastid  genomes:   they  are lower  than  you
+  might  think.  Genome    Biology   and  Evolution,   7(5), 1227–1234.
+
+Smith,  S.  A.,   &  Donoghue,     M.   J. (2008).     Rates  of  Molecular   Evolution   Are
+  Linked   to  Life History   in Flowering    Plants.   Science,  322(5898),   86–89.  http:
+  //www.sciencemag.org/content/322/5898/86
+Sung, W.,  Tucker,  A. E., Doak,   T.  G., Choi,  E., Thomas,   W.  K., &  Lynch, M.  (2012).
+  Extraordinary    genome   stability  in the ciliate Paramecium    tetraurelia. Proceedings
+  of the National   Academy     of Sciences,   109(47),  19339–19344.    http://www.pnas.
+  org/content/109/47/19339
+
+Taylor, D.  R.,  Zeyl, C.,  &  Cooke,   E.  (2002).   Conﬂicting   levels of selection in the
+  accumulation    of mitochondrial     defects in  Saccharomyces    cerevisiae.  Proceedings
+  of the National   Academy     of Sciences,  99(6),   3690–3694.   http://www.pnas.org/
+  content/99/6/3690
+Thomas,   J. A., Welch,  J. J., Lanfear,  R., &  Bromham,    L. (2010).  A Generation   Time
+  Eﬀect  on  the Rate  of Molecular    Evolution   in Invertebrates.  Molecular  Biology  and
+  Evolution,   27(5),  1173–1180.    http://mbe.oxfordjournals.org/content/27/5/
+  1173
+
+Timmis,   J.  N., Ayliﬀe,   M.  A.,  Huang,    C.  Y.,  &  Martin,  W.   (2004).   Endosym-
+  biotic gene   transfer:  organelle   genomes    forge  eukaryotic  chromosomes.      Nature
+  Reviews   Genetics,  5(2),  123–135.   http://www.nature.com/nrg/journal/v5/n2/
+  full/nrg1271.html
+
+
+20                                                                           Works  Cited
+
+Tovar,  J.  (2007).    Mitosomes    of  Parasitic  Protozoa:    Biology  and   Evolution-
+ ary   Signiﬁcance.      In   D.  W.   F.  Martin,    &   D.  M.   Mller  (Eds.),  Origin
+ of  Mitochondria     and  Hydrogenosomes,     (pp.  277–300).   Springer Berlin  Heidel-
+ berg.  DOI:  10.1007/978-3-540-38502-8     11. http://link.springer.com/chapter/
+ 10.1007/978-3-540-38502-8_11
+Wallace,  D.  C. (2005).   A  mitochondrial   paradigm    of metabolic  and  degenerative
+ diseases,  aging, and   cancer:  a dawn  for evolutionary  medicine.  Annual  Review  of
+ Genetics,   39, 359–407.
+
+Xu, S., Schaack, S., Seyfert, A., Choi, E., Lynch,  M.,  & Cristescu, M.  E. (2012). High
+ Mutation    Rates in the Mitochondrial   Genomes   of Daphnia  pulex. Molecular  Biology
+ and   Evolution,  29(2),   763–769.  http://mbe.oxfordjournals.org/content/29/
+ 2/763
+Yagi, T., &  Matsuno-Yagi,    A. (2003).  The  proton-translocating   NADH-quinone    ox-
+ idoreductase   in  the respiratory  chain:  the secret  unlocked.  Biochemistry,  42(8),
+ 2266–2274.
+
+

@@ -1,0 +1,1682 @@
+\begin{thebibliography}{241}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{}\fi
+
+\bibitem[{Alkan et~al.(2011)Alkan, Sajjadian, \&
+  Eichler}]{alkan_limitations_2011}
+Alkan, C., Sajjadian, S., \& Eichler, E.~E. (2011).
+\newblock Limitations of next-generation genome sequence assembly.
+\newblock {\em Nature Methods\/}, {\em 8\/}(1), 61--65.
+
+\bibitem[{Allen(1996)}]{allen_separate_1996}
+Allen, J.~F. (1996).
+\newblock Separate {Sexes} and the {Mitochondrial} {Theory} of {Ageing}.
+\newblock {\em Journal of Theoretical Biology\/}, {\em 180\/}(2), 135--140.
+
+\bibitem[{Altschul et~al.(1990)Altschul, Gish, Miller, Myers, \&
+  Lipman}]{altschul_basic_1990}
+Altschul, S.~F., Gish, W., Miller, W., Myers, E.~W., \& Lipman, D.~J. (1990).
+\newblock Basic local alignment search tool.
+\newblock {\em Journal of Molecular Biology\/}, {\em 215\/}(3), 403--410.
+
+\bibitem[{Archibald(2015)}]{archibald_endosymbiosis_2015}
+Archibald, J.~M. (2015).
+\newblock Endosymbiosis and {Eukaryotic} {Cell} {Evolution}.
+\newblock {\em Current Biology\/}, {\em 25\/}(19), 911--921.
+
+\bibitem[{Arnoult et~al.(2011)Arnoult, Soares, Tattoli, \&
+  Girardin}]{arnoult_mitochondria_2011}
+Arnoult, D., Soares, F., Tattoli, I., \& Girardin, S.~E. (2011).
+\newblock Mitochondria in innate immunity.
+\newblock {\em EMBO Reports\/}, {\em 12\/}(9), 901--910.
+
+\bibitem[{Ashley et~al.(1989)Ashley, Laipis, \& Hauswirth}]{ashley_rapid_1989}
+Ashley, M.~V., Laipis, P.~J., \& Hauswirth, W.~W. (1989).
+\newblock Rapid segregation of heteroplasmic bovine mitochondria.
+\newblock {\em Nucleic Acids Research\/}, {\em 17\/}(18), 7325--7331.
+
+\bibitem[{Avise et~al.(1987)Avise, Arnold, Ball, Bermingham, Lamb, Neigel,
+  Reeb, \& Saunders}]{avise_intraspecific_1987}
+Avise, J.~C., Arnold, J., Ball, R.~M., Bermingham, E., Lamb, T., Neigel, J.~E.,
+  Reeb, C.~A., \& Saunders, N.~C. (1987).
+\newblock Intraspecific {Phylogeography}: {The} {Mitochondrial} {DNA} {Bridge}
+  {Between} {Population} {Genetics} and {Systematics}.
+\newblock {\em Annual Review of Ecology and Systematics\/}, {\em 18\/}(1),
+  489--522.
+
+\bibitem[{Baer et~al.(2007)Baer, Miyamoto, \& Denver}]{baer_mutation_2007}
+Baer, C.~F., Miyamoto, M.~M., \& Denver, D.~R. (2007).
+\newblock Mutation rate variation in multicellular eukaryotes: causes and
+  consequences.
+\newblock {\em Nature Reviews Genetics\/}, {\em 8\/}(8), 619--631.
+
+\bibitem[{Baldauf(2003)}]{baldauf_deep_2003}
+Baldauf, S.~L. (2003).
+\newblock The {Deep} {Roots} of {Eukaryotes}.
+\newblock {\em Science\/}, {\em 300\/}(5626), 1703--1706.
+
+\bibitem[{Barnett et~al.(2011)Barnett, Garrison, Quinlan, Strömberg, \&
+  Marth}]{barnett_bamtools:_2011}
+Barnett, D.~W., Garrison, E.~K., Quinlan, A.~R., Strömberg, M.~P., \& Marth,
+  G.~T. (2011).
+\newblock {BamTools}: a {C}++ {API} and toolkit for analyzing and managing
+  {BAM} files.
+\newblock {\em Bioinformatics\/}, {\em 27\/}(12), 1691--1692.
+
+\bibitem[{Barr et~al.(2005)Barr, Neiman, \& Taylor}]{barr_inheritance_2005}
+Barr, C.~M., Neiman, M., \& Taylor, D.~R. (2005).
+\newblock Inheritance and recombination of mitochondrial genomes in plants,
+  fungi and animals.
+\newblock {\em The New Phytologist\/}, {\em 168\/}(1), 39--50.
+
+\bibitem[{Bensasson et~al.(2001)Bensasson, Zhang, Hartl, \&
+  Hewitt}]{bensasson_mitochondrial_2001}
+Bensasson, D., Zhang, D.-X., Hartl, D.~L., \& Hewitt, G.~M. (2001).
+\newblock Mitochondrial pseudogenes: evolution's misplaced witnesses.
+\newblock {\em Trends in Ecology \& Evolution\/}, {\em 16\/}(6), 314--321.
+
+\bibitem[{Bergstrom \& Pritchard(1998)}]{bergstrom_germline_1998}
+Bergstrom, C.~T., \& Pritchard, J. (1998).
+\newblock Germline {Bottlenecks} and the {Evolutionary} {Maintenance} of
+  {Mitochondrial} {Genomes}.
+\newblock {\em Genetics\/}, {\em 149\/}(4), 2135--2146.
+
+\bibitem[{Birky(2001)}]{birky_inheritance_2001}
+Birky, W. (2001).
+\newblock The {Inheritance} of {Genes} in {Mitochondria} and {Chloroplasts}:
+  {Laws}, {Mechanisms}, and {Models}.
+\newblock {\em Annual Review of Genetics\/}, {\em 35\/}(1), 125--148.
+
+\bibitem[{Birky \& Strausberg(1977)}]{birky_vegetative_1977}
+Birky, W., \& Strausberg, R. (1977).
+\newblock Vegetative segregation of mitochondria in yeast: {Estimating}
+  parameters using a random model.
+\newblock {\em Molecular and General Genetics\/}, {\em 158\/}(3), 251--261.
+
+\bibitem[{Bogenhagen(2012)}]{bogenhagen_mitochondrial_2012}
+Bogenhagen, D.~F. (2012).
+\newblock Mitochondrial {DNA} nucleoid structure.
+\newblock {\em Biochimica et Biophysica Acta (BBA) - Gene Regulatory
+  Mechanisms\/}, {\em 1819\/}(9–10), 914--920.
+
+\bibitem[{Bolger et~al.(2014)Bolger, Lohse, \&
+  Usadel}]{bolger_trimmomatic:_2014}
+Bolger, A.~M., Lohse, M., \& Usadel, B. (2014).
+\newblock Trimmomatic: a flexible trimmer for {Illumina} sequence data.
+\newblock {\em Bioinformatics\/}, {\em 30\/}(15), 2114--2120.
+
+\bibitem[{Boxma et~al.(2005)Boxma, de~Graaf, van~der Staay, van Alen, Ricard,
+  Gabaldón, van Hoek, Moon-van~der Staay, Koopman, van Hellemond, Tielens,
+  Friedrich, Veenhuis, Huynen, \& Hackstein}]{boxma_anaerobic_2005}
+Boxma, B., de~Graaf, R.~M., van~der Staay, G. W.~M., van Alen, T.~A., Ricard,
+  G., Gabaldón, T., van Hoek, A. H. A.~M., Moon-van~der Staay, S.~Y., Koopman,
+  W. J.~H., van Hellemond, J.~J., Tielens, A. G.~M., Friedrich, T., Veenhuis,
+  M., Huynen, M.~A., \& Hackstein, J. H.~P. (2005).
+\newblock An anaerobic mitochondrion that produces hydrogen.
+\newblock {\em Nature\/}, {\em 434\/}(7029), 74--79.
+
+\bibitem[{Broers et~al.(1990)Broers, Stumm, Vogels, \&
+  Brugerolle}]{broers_psalteriomonas_1990}
+Broers, C.~A., Stumm, C.~K., Vogels, G.~D., \& Brugerolle, G. (1990).
+\newblock Psalteriomonas lanterna gen. nov., sp. nov., a free-living
+  amoeboflagellate isolated from freshwater anaerobic sediments.
+\newblock {\em European Journal of Protistology\/}, {\em 25\/}(4), 369--380.
+
+\bibitem[{Brown et~al.(2011)Brown, Tkachuk, Shtengel, Kopek, Bogenhagen, Hess,
+  \& Clayton}]{brown_superresolution_2011}
+Brown, T.~A., Tkachuk, A.~N., Shtengel, G., Kopek, B.~G., Bogenhagen, D.~F.,
+  Hess, H.~F., \& Clayton, D.~A. (2011).
+\newblock Superresolution {Fluorescence} {Imaging} of {Mitochondrial}
+  {Nucleoids} {Reveals} {Their} {Spatial} {Range}, {Limits}, and {Membrane}
+  {Interaction} ▿.
+\newblock {\em Molecular and Cellular Biology\/}, {\em 31\/}(24), 4994--5010.
+
+\bibitem[{Bryant et~al.(1967)Bryant, Wolin, Wolin, \&
+  Wolfe}]{bryant_methanobacillus_1967}
+Bryant, M.~P., Wolin, E.~A., Wolin, M.~J., \& Wolfe, R.~S. (1967).
+\newblock Methanobacillus omelianskii, a symbiotic association of two species
+  of bacteria.
+\newblock {\em Archiv für Mikrobiologie\/}, {\em 59\/}(1-3), 20--31.
+
+\bibitem[{Cao et~al.(2007)Cao, Shitara, Horii, Nagao, Imai, Abe, Hara, Hayashi,
+  \& Yonekawa}]{cao_mitochondrial_2007}
+Cao, L., Shitara, H., Horii, T., Nagao, Y., Imai, H., Abe, K., Hara, T.,
+  Hayashi, J.-I., \& Yonekawa, H. (2007).
+\newblock The mitochondrial bottleneck occurs without reduction of {mtDNA}
+  content in female mouse germ cells.
+\newblock {\em Nature Genetics\/}, {\em 39\/}(3), 386--390.
+
+\bibitem[{Cao et~al.(2009)Cao, Shitara, Sugimoto, Hayashi, Abe, \&
+  Yonekawa}]{cao_new_2009}
+Cao, L., Shitara, H., Sugimoto, M., Hayashi, J.-I., Abe, K., \& Yonekawa, H.
+  (2009).
+\newblock New evidence confirms that the mitochondrial bottleneck is generated
+  without reduction of mitochondrial {DNA} content in early primordial germ
+  cells of mice.
+\newblock {\em PLoS genetics\/}, {\em 5\/}(12), e1000756.
+
+\bibitem[{Cavalier-Smith(1987)}]{cavalier-smith_eukaryotes_1987}
+Cavalier-Smith, T. (1987).
+\newblock Eukaryotes with no mitochondria.
+\newblock {\em Nature\/}, {\em 326\/}(6111), 332--333.
+
+\bibitem[{Cavalier-Smith(2002)}]{cavalier-smith_phagotrophic_2002}
+Cavalier-Smith, T. (2002).
+\newblock The phagotrophic origin of eukaryotes and phylogenetic classification
+  of {Protozoa}.
+\newblock {\em International Journal of Systematic and Evolutionary
+  Microbiology\/}, {\em 52\/}(2), 297--354.
+
+\bibitem[{Charlesworth et~al.(1993)Charlesworth, Morgan, \&
+  Charlesworth}]{charlesworth_effect_1993}
+Charlesworth, B., Morgan, M.~T., \& Charlesworth, D. (1993).
+\newblock The {Effect} of {Deleterious} {Mutations} on {Neutral} {Molecular}
+  {Variation}.
+\newblock {\em Genetics\/}, {\em 134\/}(4), 1289--1303.
+
+\bibitem[{Ciborowski et~al.(2007)Ciborowski, Consuegra, Leániz, Beaumont,
+  Wang, \& Jordan}]{ciborowski_rare_2007}
+Ciborowski, K.~L., Consuegra, S., Leániz, C. G.~d., Beaumont, M.~A., Wang, J.,
+  \& Jordan, W.~C. (2007).
+\newblock Rare and fleeting: an example of interspecific recombination in
+  animal mitochondrial {DNA}.
+\newblock {\em Biology Letters\/}, {\em 3\/}(5), 554--557.
+
+\bibitem[{Cingolani et~al.(2012)Cingolani, Platts, Wang, Coon, Nguyen, Wang,
+  Land, Lu, \& Ruden}]{cingolani_program_2012}
+Cingolani, P., Platts, A., Wang, L.~L., Coon, M., Nguyen, T., Wang, L., Land,
+  S.~J., Lu, X., \& Ruden, D.~M. (2012).
+\newblock A program for annotating and predicting the effects of single
+  nucleotide polymorphisms, {SnpEff}: {SNPs} in the genome of {Drosophila}
+  melanogaster strain w1118; iso-2; iso-3.
+\newblock {\em Fly\/}, {\em 6\/}(2), 80--92.
+
+\bibitem[{Clay~Montier et~al.(2009)Clay~Montier, Deng, \&
+  Bai}]{clay_montier_number_2009}
+Clay~Montier, L.~L., Deng, J.~J., \& Bai, Y. (2009).
+\newblock Number matters: control of mammalian mitochondrial {DNA} copy number.
+\newblock {\em Journal of Genetics and Genomics\/}, {\em 36\/}(3), 125--131.
+
+\bibitem[{Colbourne et~al.(2011)Colbourne, Pfrender, Gilbert, Thomas, Tucker,
+  Oakley, Tokishita, Aerts, Arnold, Basu, Bauer, Cáceres, Carmel, Casola,
+  Choi, Detter, Dong, Dusheyko, Eads, Fröhlich, Geiler-Samerotte, Gerlach,
+  Hatcher, Jogdeo, Krijgsveld, Kriventseva, Kültz, Laforsch, Lindquist, Lopez,
+  Manak, Muller, Pangilinan, Patwardhan, Pitluck, Pritham, Rechtsteiner, Rho,
+  Rogozin, Sakarya, Salamov, Schaack, Shapiro, Shiga, Skalitzky, Smith,
+  Souvorov, Sung, Tang, Tsuchiya, Tu, Vos, Wang, Wolf, Yamagata, Yamada, Ye,
+  Shaw, Andrews, Crease, Tang, Lucas, Robertson, Bork, Koonin, Zdobnov,
+  Grigoriev, Lynch, \& Boore}]{colbourne_ecoresponsive_2011}
+Colbourne, J.~K., Pfrender, M.~E., Gilbert, D., Thomas, W.~K., Tucker, A.,
+  Oakley, T.~H., Tokishita, S., Aerts, A., Arnold, G.~J., Basu, M.~K., Bauer,
+  D.~J., Cáceres, C.~E., Carmel, L., Casola, C., Choi, J.-H., Detter, J.~C.,
+  Dong, Q., Dusheyko, S., Eads, B.~D., Fröhlich, T., Geiler-Samerotte, K.~A.,
+  Gerlach, D., Hatcher, P., Jogdeo, S., Krijgsveld, J., Kriventseva, E.~V.,
+  Kültz, D., Laforsch, C., Lindquist, E., Lopez, J., Manak, J.~R., Muller, J.,
+  Pangilinan, J., Patwardhan, R.~P., Pitluck, S., Pritham, E.~J., Rechtsteiner,
+  A., Rho, M., Rogozin, I.~B., Sakarya, O., Salamov, A., Schaack, S., Shapiro,
+  H., Shiga, Y., Skalitzky, C., Smith, Z., Souvorov, A., Sung, W., Tang, Z.,
+  Tsuchiya, D., Tu, H., Vos, H., Wang, M., Wolf, Y.~I., Yamagata, H., Yamada,
+  T., Ye, Y., Shaw, J.~R., Andrews, J., Crease, T.~J., Tang, H., Lucas, S.~M.,
+  Robertson, H.~M., Bork, P., Koonin, E.~V., Zdobnov, E.~M., Grigoriev, I.~V.,
+  Lynch, M., \& Boore, J.~L. (2011).
+\newblock The {Ecoresponsive} {Genome} of {Daphnia} pulex.
+\newblock {\em Science\/}, {\em 331\/}(6017), 555--561.
+
+\bibitem[{Cox et~al.(2008)Cox, Foster, Hirt, Harris, \&
+  Embley}]{cox_archaebacterial_2008}
+Cox, C.~J., Foster, P.~G., Hirt, R.~P., Harris, S.~R., \& Embley, T.~M. (2008).
+\newblock The archaebacterial origin of eukaryotes.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  105\/}(51), 20356--20361.
+
+\bibitem[{Cox \& Spradling(2003)}]{cox_balbiani_2003}
+Cox, R.~T., \& Spradling, A.~C. (2003).
+\newblock A {Balbiani} body and the fusome mediate mitochondrial inheritance
+  during {Drosophila} oogenesis.
+\newblock {\em Development (Cambridge, England)\/}, {\em 130\/}(8), 1579--1590.
+
+\bibitem[{Crease(1999)}]{crease_complete_1999}
+Crease, T.~J. (1999).
+\newblock The complete sequence of the mitochondrial genome of {Daphnia} pulex
+  ({Cladocera}: {Crustacea}).
+\newblock {\em Gene\/}, {\em 233\/}(1–2), 89--99.
+
+\bibitem[{Cree et~al.(2008)Cree, Samuels, de~Sousa~Lopes, Rajasimha,
+  Wonnapinij, Mann, Dahl, \& Chinnery}]{cree_reduction_2008}
+Cree, L.~M., Samuels, D.~C., de~Sousa~Lopes, S.~C., Rajasimha, H.~K.,
+  Wonnapinij, P., Mann, J.~R., Dahl, H.-H.~M., \& Chinnery, P.~F. (2008).
+\newblock A reduction of mitochondrial {DNA} molecules during embryogenesis
+  explains the rapid segregation of genotypes.
+\newblock {\em Nature Genetics\/}, {\em 40\/}(2), 249--254.
+
+\bibitem[{de~Zamaroczy et~al.(1981)de~Zamaroczy, Marotta, Faugeron-Fonty,
+  Goursot, Mangin, Baldacci, \& Bernardi}]{de_zamaroczy_origins_1981}
+de~Zamaroczy, M., Marotta, R., Faugeron-Fonty, G., Goursot, R., Mangin, M.,
+  Baldacci, G., \& Bernardi, G. (1981).
+\newblock The origins of replication of the yeast mitochondrial genome and the
+  phenomenon of suppressivity.
+\newblock {\em Nature\/}, {\em 292\/}(5818), 75--78.
+
+\bibitem[{Denver et~al.(2009)Denver, Dolan, Wilhelm, Sung, Lucas-Lledó, Howe,
+  Lewis, Okamoto, Thomas, Lynch, \& Baer}]{denver_genome-wide_2009}
+Denver, D.~R., Dolan, P.~C., Wilhelm, L.~J., Sung, W., Lucas-Lledó, J.~I.,
+  Howe, D.~K., Lewis, S.~C., Okamoto, K., Thomas, W.~K., Lynch, M., \& Baer,
+  C.~F. (2009).
+\newblock A genome-wide view of {Caenorhabditis} elegans base-substitution
+  mutation processes.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  106\/}(38), 16310--16314.
+
+\bibitem[{Denver et~al.(2000)Denver, Morris, Lynch, Vassilieva, \&
+  Thomas}]{denver_high_2000}
+Denver, D.~R., Morris, K., Lynch, M., Vassilieva, L.~L., \& Thomas, W.~K.
+  (2000).
+\newblock High {Direct} {Estimate} of the {Mutation} {Rate} in the
+  {Mitochondrial} {Genome} of {Caenorhabditis} elegans.
+\newblock {\em Science\/}, {\em 289\/}(5488), 2342--2344.
+
+\bibitem[{Djémié et~al.(2016)Djémié, Weckhuysen, von Spiczak, Carvill,
+  Jaehn, Anttonen, Brilstra, Caglayan, de~Kovel, Depienne, Gaily, Gennaro,
+  Giraldez, Gormley, Guerrero-López, Guerrini, Hämäläinen, Hartmann,
+  Hernandez-Hernandez, Hjalgrim, Koeleman, Leguern, Lehesjoki, Lemke, Leu,
+  Marini, McMahon, Mei, Møller, Muhle, Myers, Nava, Serratosa, Sisodiya,
+  Stephani, Striano, van Kempen, Verbeek, Usluer, Zara, Palotie, Mefford,
+  Scheffer, De~Jonghe, Helbig, Suls, \& {EuroEPINOMICS-RES Dravet working
+  group}}]{djemie_pitfalls_2016}
+Djémié, T., Weckhuysen, S., von Spiczak, S., Carvill, G.~L., Jaehn, J.,
+  Anttonen, A.-K., Brilstra, E., Caglayan, H.~S., de~Kovel, C.~G., Depienne,
+  C., Gaily, E., Gennaro, E., Giraldez, B.~G., Gormley, P., Guerrero-López,
+  R., Guerrini, R., Hämäläinen, E., Hartmann, C., Hernandez-Hernandez, L.,
+  Hjalgrim, H., Koeleman, B. P.~C., Leguern, E., Lehesjoki, A.-E., Lemke,
+  J.~R., Leu, C., Marini, C., McMahon, J.~M., Mei, D., Møller, R.~S., Muhle,
+  H., Myers, C.~T., Nava, C., Serratosa, J.~M., Sisodiya, S.~M., Stephani, U.,
+  Striano, P., van Kempen, M. J.~A., Verbeek, N.~E., Usluer, S., Zara, F.,
+  Palotie, A., Mefford, H.~C., Scheffer, I.~E., De~Jonghe, P., Helbig, I.,
+  Suls, A., \& {EuroEPINOMICS-RES Dravet working group} (2016).
+\newblock Pitfalls in genetic testing: the story of missed {SCN}1a mutations.
+\newblock {\em Molecular Genetics \& Genomic Medicine\/}, (pp. n/a--n/a).
+
+\bibitem[{Dokianakis \& Ladoukakis(2014)}]{dokianakis_different_2014}
+Dokianakis, E., \& Ladoukakis, E.~D. (2014).
+\newblock Different degree of paternal {mtDNA} leakage between male and female
+  progeny in interspecific {Drosophila} crosses.
+\newblock {\em Ecology and Evolution\/}, {\em 4\/}(13), 2633--2641.
+
+\bibitem[{Doolittle \& Brown(1994)}]{doolittle_tempo_1994}
+Doolittle, W.~F., \& Brown, J.~R. (1994).
+\newblock Tempo, mode, the progenote, and the universal root.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  91\/}(15), 6721--6728.
+
+\bibitem[{Ebert(2005)}]{ebert_ecology_2005}
+Ebert, D. (2005).
+\newblock {\em Ecology, {Epidemiology}, and {Evolution} of {Parasitism} in
+  {Daphnia}\/}.
+\newblock National Center for Biotechnology Information (US).
+
+\bibitem[{Eisen \& Hanawalt(1999)}]{eisen_phylogenomic_1999}
+Eisen, J.~A., \& Hanawalt, P.~C. (1999).
+\newblock A phylogenomic study of {DNA} repair genes, proteins, and processes.
+\newblock {\em Mutation Research\/}, {\em 435\/}(3), 171--213.
+
+\bibitem[{Ekblom et~al.(2014)Ekblom, Smeds, \& Ellegren}]{ekblom_patterns_2014}
+Ekblom, R., Smeds, L., \& Ellegren, H. (2014).
+\newblock Patterns of sequencing coverage bias revealed by ultra-deep
+  sequencing of vertebrate mitochondria.
+\newblock {\em BMC Genomics\/}, {\em 15\/}, 467.
+
+\bibitem[{El-Hattab \& Scaglia(2013)}]{el-hattab_mitochondrial_2013}
+El-Hattab, A.~W., \& Scaglia, F. (2013).
+\newblock Mitochondrial {DNA} depletion syndromes: review and updates of
+  genetic basis, manifestations, and therapeutic options.
+\newblock {\em Neurotherapeutics: The Journal of the American Society for
+  Experimental NeuroTherapeutics\/}, {\em 10\/}(2), 186--198.
+
+\bibitem[{Elango et~al.(2009)Elango, Lee, Peng, Loh, \&
+  Yi}]{elango_evolutionary_2009}
+Elango, N., Lee, J., Peng, Z., Loh, Y.-H.~E., \& Yi, S.~V. (2009).
+\newblock Evolutionary rate variation in {Old} {World} monkeys.
+\newblock {\em Biology Letters\/}, {\em 5\/}(3), 405--408.
+
+\bibitem[{Embley et~al.(2003)Embley, Giezen, Horner, Dyal, \&
+  Foster}]{embley_mitochondria_2003}
+Embley, M., Giezen, M. v.~d., Horner, D.~S., Dyal, P.~L., \& Foster, P. (2003).
+\newblock Mitochondria and hydrogenosomes are two forms of the same fundamental
+  organelle.
+\newblock {\em Philosophical Transactions of the Royal Society of London B:
+  Biological Sciences\/}, {\em 358\/}(1429), 191--203.
+
+\bibitem[{Embley \& Martin(2006)}]{embley_eukaryotic_2006}
+Embley, T.~M., \& Martin, W. (2006).
+\newblock Eukaryotic evolution, changes and challenges.
+\newblock {\em Nature\/}, {\em 440\/}(7084), 623--630.
+
+\bibitem[{Filee et~al.(2002)Filee, Forterre, Sen-Lin, \&
+  Laurent}]{filee_evolution_2002}
+Filee, J., Forterre, P., Sen-Lin, T., \& Laurent, J. (2002).
+\newblock Evolution of {DNA} polymerase families: evidences for multiple gene
+  exchange between cellular and viral proteins.
+\newblock {\em Journal of Molecular Evolution\/}, {\em 54\/}(6), 763--773.
+
+\bibitem[{Finlay et~al.(1993)Finlay, Embley, \& Fenchel}]{finlay_new_1993}
+Finlay, B.~J., Embley, T.~M., \& Fenchel, T. (1993).
+\newblock A new polymorphic methanogen, closely related to {Methanocorpusculum}
+  parvum, living in stable symbiosis within the anaerobic ciliate {Trimyema}
+  sp.
+\newblock {\em Journal of General Microbiology\/}, {\em 139\/}(2), 371--378.
+
+\bibitem[{Fuke et~al.(2011)Fuke, Kubota-Sakashita, Kasahara, Shigeyoshi, \&
+  Kato}]{fuke_regional_2011}
+Fuke, S., Kubota-Sakashita, M., Kasahara, T., Shigeyoshi, Y., \& Kato, T.
+  (2011).
+\newblock Regional variation in mitochondrial {DNA} copy number in mouse brain.
+\newblock {\em Biochimica et Biophysica Acta (BBA) - Bioenergetics\/}, {\em
+  1807\/}(3), 270--274.
+
+\bibitem[{Furió et~al.(2005)Furió, Moya, \& Sanjuán}]{furio_cost_2005}
+Furió, V., Moya, A., \& Sanjuán, R. (2005).
+\newblock The cost of replication fidelity in an {RNA} virus.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}, {\em 102\/}(29), 10233--10237.
+
+\bibitem[{Galluzzi et~al.(2012)Galluzzi, Kepp, \&
+  Kroemer}]{galluzzi_mitochondria:_2012}
+Galluzzi, L., Kepp, O., \& Kroemer, G. (2012).
+\newblock Mitochondria: master regulators of danger signalling.
+\newblock {\em Nature Reviews Molecular Cell Biology\/}, {\em 13\/}(12),
+  780--788.
+
+\bibitem[{Gantenbein et~al.(2005)Gantenbein, Fet, Gantenbein-Ritter, \&
+  Balloux}]{gantenbein_evidence_2005}
+Gantenbein, B., Fet, V., Gantenbein-Ritter, I.~A., \& Balloux, F. (2005).
+\newblock Evidence for recombination in scorpion mitochondrial {DNA}
+  ({Scorpiones}: {Buthidae}).
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences\/}, {\em
+  272\/}(1564), 697--704.
+
+\bibitem[{Gilkerson et~al.(2003)Gilkerson, Selker, \&
+  Capaldi}]{gilkerson_cristal_2003}
+Gilkerson, R.~W., Selker, J. M.~L., \& Capaldi, R.~A. (2003).
+\newblock The cristal membrane of mitochondria is the principal site of
+  oxidative phosphorylation.
+\newblock {\em FEBS letters\/}, {\em 546\/}(2-3), 355--358.
+
+\bibitem[{Gomes et~al.(2011)Gomes, Benedetto, \& Scorrano}]{gomes_during_2011}
+Gomes, L.~C., Benedetto, G.~D., \& Scorrano, L. (2011).
+\newblock During autophagy mitochondria elongate, are spared from degradation
+  and sustain cell viability.
+\newblock {\em Nature Cell Biology\/}, {\em 13\/}(5), 589--598.
+
+\bibitem[{Guo et~al.(2006)Guo, Liu, \& Liu}]{guo_evidence_2006}
+Guo, X., Liu, S., \& Liu, Y. (2006).
+\newblock Evidence for {Recombination} of {Mitochondrial} {DNA} in {Triploid}
+  {Crucian} {Carp}.
+\newblock {\em Genetics\/}, {\em 172\/}(3), 1745--1749.
+
+\bibitem[{Guo et~al.(2012{\natexlab{a}})Guo, Cai, Samuels, Ye, Long, Li,
+  Winther, Tawn, Stovall, Lähteenmäki, Malila, Levy, Shaffer, Shyr, Shu, \&
+  Boice}]{guo_use_2012}
+Guo, Y., Cai, Q., Samuels, D.~C., Ye, F., Long, J., Li, C.-I., Winther, J.~F.,
+  Tawn, E.~J., Stovall, M., Lähteenmäki, P., Malila, N., Levy, S., Shaffer,
+  C., Shyr, Y., Shu, X.-O., \& Boice, J.~D. (2012{\natexlab{a}}).
+\newblock The use of next generation sequencing technology to study the effect
+  of radiation therapy on mitochondrial {DNA} mutation.
+\newblock {\em Mutation Research\/}, {\em 744\/}(2), 154--160.
+
+\bibitem[{Guo et~al.(2013)Guo, Li, Sheng, Winther, Cai, Boice, \&
+  Shyr}]{guo_very_2013}
+Guo, Y., Li, C.-I., Sheng, Q., Winther, J.~F., Cai, Q., Boice, J.~D., \& Shyr,
+  Y. (2013).
+\newblock Very {Low}-{Level} {Heteroplasmy} {mtDNA} {Variations} {Are}
+  {Inherited} in {Humans}.
+\newblock {\em Journal of Genetics and Genomics\/}, {\em 40\/}(12), 607--615.
+
+\bibitem[{Guo et~al.(2012{\natexlab{b}})Guo, Li, Li, Long, Samuels, \&
+  Shyr}]{guo_effect_2012}
+Guo, Y., Li, J., Li, C.-I., Long, J., Samuels, D.~C., \& Shyr, Y.
+  (2012{\natexlab{b}}).
+\newblock The effect of strand bias in {Illumina} short-read sequencing data.
+\newblock {\em BMC genomics\/}, {\em 13\/}, 666.
+
+\bibitem[{Guy \& Ettema(2011)}]{guy_archaeal_2011}
+Guy, L., \& Ettema, T. J.~G. (2011).
+\newblock The archaeal '{TACK}' superphylum and the origin of eukaryotes.
+\newblock {\em Trends in Microbiology\/}, {\em 19\/}(12), 580--587.
+
+\bibitem[{Guy et~al.(2014)Guy, Saw, \& Ettema}]{guy_archaeal_2014}
+Guy, L., Saw, J.~H., \& Ettema, T. J.~G. (2014).
+\newblock The archaeal legacy of eukaryotes: a phylogenomic perspective.
+\newblock {\em Cold Spring Harbor Perspectives in Biology\/}, {\em 6\/}(10),
+  a016022.
+
+\bibitem[{Haag-Liautard et~al.(2008)Haag-Liautard, Coffey, Houle, Lynch,
+  Charlesworth, \& Keightley}]{haag-liautard_direct_2008}
+Haag-Liautard, C., Coffey, N., Houle, D., Lynch, M., Charlesworth, B., \&
+  Keightley, P.~D. (2008).
+\newblock Direct {Estimation} of the {Mitochondrial} {DNA} {Mutation} {Rate} in
+  {Drosophila} melanogaster.
+\newblock {\em PLoS Biology\/}, {\em 6\/}(8).
+
+\bibitem[{Haag-Liautard et~al.(2007)Haag-Liautard, Dorris, Maside, Macaskill,
+  Halligan, Charlesworth, \& Keightley}]{haag-liautard_direct_2007}
+Haag-Liautard, C., Dorris, M., Maside, X., Macaskill, S., Halligan, D.~L.,
+  Charlesworth, B., \& Keightley, P.~D. (2007).
+\newblock Direct estimation of per nucleotide and genomic deleterious mutation
+  rates in {Drosophila}.
+\newblock {\em Nature\/}, {\em 445\/}(7123), 82--85.
+
+\bibitem[{Hackstein et~al.(1999)Hackstein, Akhmanova, Boxma, Harhangi, \&
+  Voncken}]{hackstein_hydrogenosomes:_1999}
+Hackstein, J. H.~P., Akhmanova, A., Boxma, B., Harhangi, H.~R., \& Voncken, F.
+  G.~J. (1999).
+\newblock Hydrogenosomes: eukaryotic adaptations to anaerobic environments.
+\newblock {\em Trends in Microbiology\/}, {\em 7\/}(11), 441--447.
+
+\bibitem[{Hagstrom et~al.(2014)Hagstrom, Freyer, Battersby, Stewart, \&
+  Larsson}]{hagstrom_no_2014}
+Hagstrom, E., Freyer, C., Battersby, B.~J., Stewart, J.~B., \& Larsson, N.-G.
+  (2014).
+\newblock No recombination of {mtDNA} after heteroplasmy for 50 generations in
+  the mouse maternal germline.
+\newblock {\em Nucleic Acids Research\/}, {\em 42\/}(2), 1111--1116.
+
+\bibitem[{Halligan \& Keightley(2009)}]{halligan_spontaneous_2009}
+Halligan, D.~L., \& Keightley, P.~D. (2009).
+\newblock Spontaneous {Mutation} {Accumulation} {Studies} in {Evolutionary}
+  {Genetics}.
+\newblock {\em Annual Review of Ecology, Evolution, and Systematics\/}, {\em
+  40\/}(1), 151--172.
+
+\bibitem[{Haridas et~al.(2011)Haridas, Breuill, Bohlmann, \&
+  Hsiang}]{haridas_biologists_2011}
+Haridas, S., Breuill, C., Bohlmann, J., \& Hsiang, T. (2011).
+\newblock A biologist's guide to de novo genome assembly using next-generation
+  sequence data: {A} test with fungal genomes.
+\newblock {\em Journal of Microbiological Methods\/}, {\em 86\/}(3), 368--375.
+
+\bibitem[{Hasegawa et~al.(1985)Hasegawa, Kishino, \&
+  Yano}]{hasegawa_dating_1985}
+Hasegawa, M., Kishino, H., \& Yano, T.-a. (1985).
+\newblock Dating of the human-ape splitting by a molecular clock of
+  mitochondrial {DNA}.
+\newblock {\em Journal of Molecular Evolution\/}, {\em 22\/}(2), 160--174.
+
+\bibitem[{Hastings(1992)}]{hastings_population_1992}
+Hastings, I.~M. (1992).
+\newblock Population genetic aspects of deleterious cytoplasmic genomes and
+  their effect on the evolution of sexual reproduction.
+\newblock {\em Genetics Research\/}, {\em 59\/}(03), 215--225.
+
+\bibitem[{Hengartner et~al.(1992)Hengartner, Ellis, \&
+  Horvitz}]{hengartner_caenorhabditis_1992}
+Hengartner, M.~O., Ellis, R., \& Horvitz, R. (1992).
+\newblock Caenorhabditis elegans gene ced-9 protects cells from programmed cell
+  death.
+\newblock {\em Nature\/}, {\em 356\/}(6369), 494--499.
+
+\bibitem[{Henry et~al.(2012)Henry, Schwander, \&
+  Crespi}]{henry_deleterious_2012}
+Henry, L., Schwander, T., \& Crespi, B.~J. (2012).
+\newblock Deleterious {Mutation} {Accumulation} in {Asexual} {Timema} {Stick}
+  {Insects}.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 29\/}(1), 401--408.
+
+\bibitem[{Hill et~al.(2014)Hill, Chen, \& Xu}]{hill_selective_2014}
+Hill, J.~H., Chen, Z., \& Xu, H. (2014).
+\newblock Selective propagation of functional mitochondrial {DNA} during
+  oogenesis restricts the transmission of a deleterious mitochondrial variant.
+\newblock {\em Nature Genetics\/}, {\em 46\/}(4), 389--392.
+
+\bibitem[{Hlaing et~al.(2009)Hlaing, Tun-Lin, Somboon, Socheat, Setha, Min,
+  Chang, \& Walton}]{hlaing_mitochondrial_2009}
+Hlaing, T., Tun-Lin, W., Somboon, P., Socheat, D., Setha, T., Min, S., Chang,
+  M.~S., \& Walton, C. (2009).
+\newblock Mitochondrial pseudogenes in the nuclear genome of {Aedes} aegypti
+  mosquitoes: implications for past and future population genetic studies.
+\newblock {\em BMC genetics\/}, {\em 10\/}, 11.
+
+\bibitem[{Ho \& Duchêne(2014)}]{ho_molecular-clock_2014}
+Ho, S. Y.~W., \& Duchêne, S. (2014).
+\newblock Molecular-clock methods for estimating evolutionary rates and
+  timescales.
+\newblock {\em Molecular Ecology\/}, {\em 23\/}(24), 5947--5965.
+
+\bibitem[{Ho \& Larson(2006)}]{ho_molecular_2006}
+Ho, S. Y.~W., \& Larson, G. (2006).
+\newblock Molecular clocks: when timesare a-changin'.
+\newblock {\em Trends in Genetics\/}, {\em 22\/}(2), 79--83.
+
+\bibitem[{Ho et~al.(2005)Ho, Phillips, Cooper, \& Drummond}]{ho_time_2005}
+Ho, S. Y.~W., Phillips, M.~J., Cooper, A., \& Drummond, A.~J. (2005).
+\newblock Time {Dependency} of {Molecular} {Rate} {Estimates} and {Systematic}
+  {Overestimation} of {Recent} {Divergence} {Times}.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 22\/}(7), 1561--1568.
+
+\bibitem[{Hollenbeck \& Saxton(2005)}]{hollenbeck_axonal_2005}
+Hollenbeck, P.~J., \& Saxton, W.~M. (2005).
+\newblock The axonal transport of mitochondria.
+\newblock {\em Journal of cell science\/}, {\em 118\/}(Pt 23), 5411--5419.
+
+\bibitem[{Howe et~al.(2010)Howe, Baer, \& Denver}]{howe_high_2010}
+Howe, D.~K., Baer, C.~F., \& Denver, D.~R. (2010).
+\newblock High {Rate} of {Large} {Deletions} in {Caenorhabditis} briggsae
+  {Mitochondrial} {Genome} {Mutation} {Processes}.
+\newblock {\em Genome Biology and Evolution\/}, {\em 2\/}, 29--38.
+
+\bibitem[{Huang et~al.(2015)Huang, Mullikin, \& Hansen}]{huang_evaluation_2015}
+Huang, H.~W., Mullikin, J.~C., \& Hansen, N.~F. (2015).
+\newblock Evaluation of variant detection software for pooled next-generation
+  sequence data.
+\newblock {\em BMC Bioinformatics\/}, {\em 16\/}(1).
+
+\bibitem[{Iborra et~al.(2004)Iborra, Kimura, \& Cook}]{iborra_functional_2004}
+Iborra, F.~J., Kimura, H., \& Cook, P.~R. (2004).
+\newblock The functional organization of mitochondrial genomes in human cells.
+\newblock {\em BMC Biology\/}, {\em 2\/}, 9.
+
+\bibitem[{Innes \& Hebert(1988)}]{innes_origin_1988}
+Innes, D.~J., \& Hebert, P. D.~N. (1988).
+\newblock The {Origin} and {Genetic} {Basis} of {Obligate} {Parthenogenesis} in
+  {Daphnia} pulex.
+\newblock {\em Evolution\/}, {\em 42\/}(5), 1024--1035.
+
+\bibitem[{Iwabe et~al.(1989)Iwabe, Kuma, Hasegawa, Osawa, \&
+  Miyata}]{iwabe_evolutionary_1989}
+Iwabe, N., Kuma, K., Hasegawa, M., Osawa, S., \& Miyata, T. (1989).
+\newblock Evolutionary relationship of archaebacteria, eubacteria, and
+  eukaryotes inferred from phylogenetic trees of duplicated genes.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}, {\em 86\/}(23), 9355--9359.
+
+\bibitem[{Jakobs et~al.(2003)Jakobs, Schauss, \&
+  Hell}]{jakobs_photoconversion_2003}
+Jakobs, S., Schauss, A.~C., \& Hell, S.~W. (2003).
+\newblock Photoconversion of matrix targeted {GFP} enables analysis of
+  continuity and intermixing of the mitochondrial lumen.
+\newblock {\em FEBS Letters\/}, {\em 554\/}(1-2), 194--200.
+
+\bibitem[{Jeffreys et~al.(1988)Jeffreys, Royle, Wilson, \&
+  Wong}]{jeffreys_spontaneous_1988}
+Jeffreys, A.~J., Royle, N.~J., Wilson, V., \& Wong, Z. (1988).
+\newblock Spontaneous mutation rates to new length alleles at tandem-repetitive
+  hypervariable loci in human {DNA}.
+\newblock {\em Nature\/}, {\em 332\/}(6161), 278--281.
+
+\bibitem[{Jenuth et~al.(1996)Jenuth, Peterson, Fu, \&
+  Shoubridge}]{jenuth_random_1996}
+Jenuth, J.~P., Peterson, A.~C., Fu, K., \& Shoubridge, E.~A. (1996).
+\newblock Random genetic drift in the female germline explains the rapid
+  segregation of mammalian mitochondrial {DNA}.
+\newblock {\em Nature Genetics\/}, {\em 14\/}(2), 146--151.
+
+\bibitem[{Jiang et~al.(2015)Jiang, Turinsky, \& Brudno}]{jiang_missing_2015}
+Jiang, Y., Turinsky, A.~L., \& Brudno, M. (2015).
+\newblock The missing indels: an estimate of indel variation in a human genome
+  and analysis of factors that impede detection.
+\newblock {\em Nucleic Acids Research\/}, (p. gkv677).
+
+\bibitem[{Jiang et~al.(2012)Jiang, Wang, \& Brudno}]{jiang_PRISM:_2012}
+Jiang, Y., Wang, Y., \& Brudno, M. (2012).
+\newblock {PRISM}: {Pair} read informed split read mapping for base-pair level
+  detection of insertion, deletion and structural variants.
+\newblock {\em Bioinformatics\/}, (p. bts484).
+
+\bibitem[{Kaneda et~al.(1995)Kaneda, Hayashi, Takahama, Taya, Lindahl, \&
+  Yonekawa}]{kaneda_elimination_1995}
+Kaneda, H., Hayashi, J., Takahama, S., Taya, C., Lindahl, K.~F., \& Yonekawa,
+  H. (1995).
+\newblock Elimination of paternal mitochondrial {DNA} in intraspecific crosses
+  during early mouse embryogenesis.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}, {\em 92\/}(10), 4542--4546.
+
+\bibitem[{Keightley \& Lynch(2003)}]{keightley_toward_2003}
+Keightley, P.~D., \& Lynch, M. (2003).
+\newblock Toward a {Realistic} {Model} of {Mutations} {Affecting} {Fitness}.
+\newblock {\em Evolution\/}, {\em 57\/}(3), 683--685.
+
+\bibitem[{Keightley et~al.(2009)Keightley, Trivedi, Thomson, Oliver, Kumar, \&
+  Blaxter}]{keightley_analysis_2009}
+Keightley, P.~D., Trivedi, U., Thomson, M., Oliver, F., Kumar, S., \& Blaxter,
+  M.~L. (2009).
+\newblock Analysis of the genome sequences of three {Drosophila} melanogaster
+  spontaneous mutation accumulation lines.
+\newblock {\em Genome Research\/}, {\em 19\/}(7), 1195--1201.
+
+\bibitem[{Keith et~al.(2015)Keith, Tucker, Jackson, Sung, Lledó, Schrider,
+  Schaack, Dudycha, Ackerman, Younge, Shaw, \& Lynch}]{keith_high_2015}
+Keith, N., Tucker, A.~E., Jackson, C.~E., Sung, W., Lledó, J. I.~L., Schrider,
+  D.~R., Schaack, S., Dudycha, J.~L., Ackerman, M., Younge, A.~J., Shaw, J.~R.,
+  \& Lynch, M. (2015).
+\newblock High mutational rates of large-scale duplication and deletion in
+  {Daphnia} pulex.
+\newblock {\em Genome Research\/}.
+
+\bibitem[{Kimura(1983)}]{kimura_neutral_1983}
+Kimura, M. (1983).
+\newblock {\em The {Neutral} {Theory} of {Molecular} {Evolution}\/}.
+\newblock Cambridge: Cambridge University Press.
+
+\bibitem[{Kloc et~al.(2004)Kloc, Bilinski, \& Etkin}]{kloc_balbiani_2004}
+Kloc, M., Bilinski, S., \& Etkin, L.~D. (2004).
+\newblock The {Balbiani} body and germ cell determinants: 150 years later.
+\newblock {\em Current Topics in Developmental Biology\/}, {\em 59\/}, 1--36.
+
+\bibitem[{Kloc et~al.(1996)Kloc, Larabell, \& Etkin}]{kloc_elaboration_1996}
+Kloc, M., Larabell, C., \& Etkin, L.~D. (1996).
+\newblock Elaboration of the messenger transport organizer pathway for
+  localization of {RNA} to the vegetal cortex of {Xenopus} oocytes.
+\newblock {\em Developmental Biology\/}, {\em 180\/}(1), 119--130.
+
+\bibitem[{Koboldt et~al.(2012)Koboldt, Larson, Chen, Ding, \&
+  Wilson}]{koboldt_massively_2012}
+Koboldt, D.~C., Larson, D.~E., Chen, K., Ding, L., \& Wilson, R.~K. (2012).
+\newblock Massively {Parallel} {Sequencing} {Approaches} for {Characterization}
+  of {Structural} {Variation}.
+\newblock {\em Methods in molecular biology (Clifton, N.J.)\/}, {\em 838\/},
+  369--384.
+
+\bibitem[{Kondrashov(1995)}]{kondrashov_modifiers_1995}
+Kondrashov, A.~S. (1995).
+\newblock Modifiers of mutation-selection balance: general approach and the
+  evolution of mutation rates.
+\newblock {\em Genetical Research\/}, {\em 66\/}(01), 53.
+
+\bibitem[{Koutsovoulos et~al.(2015)Koutsovoulos, Kumar, Laetsch, Stevens, Daub,
+  Conlon, Maroon, Thomas, Aboobaker, \& Blaxter}]{koutsovoulos_genome_2015}
+Koutsovoulos, G., Kumar, S., Laetsch, D.~R., Stevens, L., Daub, J., Conlon, C.,
+  Maroon, H., Thomas, F., Aboobaker, A., \& Blaxter, M. (2015).
+\newblock The genome of the tardigrade {Hypsibius} dujardini.
+\newblock {\em bioRxiv\/}, (p. 033464).
+
+\bibitem[{Kraytsberg et~al.(2004)Kraytsberg, Schwartz, Brown, Ebralidse, Kunz,
+  Clayton, Vissing, \& Khrapko}]{kraytsberg_recombination_2004}
+Kraytsberg, Y., Schwartz, M., Brown, T.~A., Ebralidse, K., Kunz, W.~S.,
+  Clayton, D.~A., Vissing, J., \& Khrapko, K. (2004).
+\newblock Recombination of {Human} {Mitochondrial} {DNA}.
+\newblock {\em Science\/}, {\em 304\/}(5673), 981--981.
+
+\bibitem[{Kukat et~al.(2011)Kukat, Wurm, Spåhr, Falkenberg, Larsson, \&
+  Jakobs}]{kukat_super-resolution_2011}
+Kukat, C., Wurm, C.~A., Spåhr, H., Falkenberg, M., Larsson, N.-G., \& Jakobs,
+  S. (2011).
+\newblock Super-resolution microscopy reveals that mammalian mitochondrial
+  nucleoids have a uniform size and frequently contain a single copy of
+  {mtDNA}.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  108\/}(33), 13534--13539.
+
+\bibitem[{Kvist et~al.(2003)Kvist, Martens, Nazarenko, \&
+  Orell}]{kvist_paternal_2003}
+Kvist, L., Martens, J., Nazarenko, A.~A., \& Orell, M. (2003).
+\newblock Paternal leakage of mitochondrial {DNA} in the great tit ({Parus}
+  major).
+\newblock {\em Molecular Biology and Evolution\/}, {\em 20\/}(2), 243--247.
+
+\bibitem[{Ladoukakis \& Zouros(2001)}]{ladoukakis_recombination_2001}
+Ladoukakis, E.~D., \& Zouros, E. (2001).
+\newblock Recombination in {Animal} {Mitochondrial} {DNA}: {Evidence} from
+  {Published} {Sequences}.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 18\/}(11), 2127--2131.
+
+\bibitem[{Lake et~al.(1984)Lake, Henderson, Oakes, \&
+  Clark}]{lake_eocytes:_1984}
+Lake, J.~A., Henderson, E., Oakes, M., \& Clark, M.~W. (1984).
+\newblock Eocytes: a new ribosome structure indicates a kingdom with a close
+  relationship to eukaryotes.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  81\/}(12), 3786--3790.
+
+\bibitem[{Lane \& Martin(2010)}]{lane_energetics_2010}
+Lane, N., \& Martin, W. (2010).
+\newblock The energetics of genome complexity.
+\newblock {\em Nature\/}, {\em 467\/}(7318), 929--934.
+
+\bibitem[{Langmead \& Salzberg(2012)}]{langmead_fast_2012}
+Langmead, B., \& Salzberg, S.~L. (2012).
+\newblock Fast gapped-read alignment with {Bowtie} 2.
+\newblock {\em Nature Methods\/}, {\em 9\/}(4), 357--359.
+
+\bibitem[{Lee et~al.(2012)Lee, Ma, Juanes, Tachibana, Sparman, Woodward,
+  Ramsey, Xu, Kang, Amato, Mair, Steinborn, \& Mitalipov}]{lee_rapid_2012}
+Lee, H.-S., Ma, H., Juanes, R.~C., Tachibana, M., Sparman, M., Woodward, J.,
+  Ramsey, C., Xu, J., Kang, E.-J., Amato, P., Mair, G., Steinborn, R., \&
+  Mitalipov, S. (2012).
+\newblock Rapid mitochondrial {DNA} segregation in primate preimplantation
+  embryos precedes somatic and germline bottleneck.
+\newblock {\em Cell reports\/}, {\em 1\/}(5), 506--515.
+
+\bibitem[{Legros et~al.(2004)Legros, Malka, Frachon, Lombès, \&
+  Rojo}]{legros_organization_2004}
+Legros, F., Malka, F., Frachon, P., Lombès, A., \& Rojo, M. (2004).
+\newblock Organization and dynamics of human mitochondrial {DNA}.
+\newblock {\em Journal of Cell Science\/}, {\em 117\/}(13), 2653--2662.
+
+\bibitem[{Li et~al.(2015)Li, Schröder, Ni, Madea, \&
+  Stoneking}]{li_extensive_2015}
+Li, M., Schröder, R., Ni, S., Madea, B., \& Stoneking, M. (2015).
+\newblock Extensive tissue-related and allele-related {mtDNA} heteroplasmy
+  suggests positive selection for somatic mutations.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  112\/}(8), 2491--2496.
+
+\bibitem[{Lill \& Kispal(2000)}]{lill_maturation_2000}
+Lill, R., \& Kispal, G. (2000).
+\newblock Maturation of cellular {Fe}–{S} proteins: an essential function of
+  mitochondria.
+\newblock {\em Trends in Biochemical Sciences\/}, {\em 25\/}(8), 352--356.
+
+\bibitem[{Lindmark \& Müller(1973)}]{lindmark_hydrogenosome_1973}
+Lindmark, D.~G., \& Müller, M. (1973).
+\newblock Hydrogenosome, a {Cytoplasmic} {Organelle} of the {Anaerobic}
+  {Flagellate} {Tritrichomonas} foetus, and {Its} {Role} in {Pyruvate}
+  {Metabolism}.
+\newblock {\em Journal of Biological Chemistry\/}, {\em 248\/}(22), 7724--7728.
+
+\bibitem[{Lloyd et~al.(2014)Lloyd, Kent, \& Winnall}]{lloyd_high_2014}
+Lloyd, S.~B., Kent, S.~J., \& Winnall, W.~R. (2014).
+\newblock The high cost of fidelity.
+\newblock {\em AIDS research and human retroviruses\/}, {\em 30\/}(1), 8--16.
+
+\bibitem[{Logan(2006)}]{logan_mitochondrial_2006}
+Logan, D.~C. (2006).
+\newblock The mitochondrial compartment.
+\newblock {\em Journal of Experimental Botany\/}, {\em 57\/}(6), 1225--1243.
+
+\bibitem[{Lynch(2010)}]{lynch_evolution_2010}
+Lynch, M. (2010).
+\newblock Evolution of the mutation rate.
+\newblock {\em Trends in Genetics\/}, {\em 26\/}(8), 345--352.
+
+\bibitem[{Lynch(2011)}]{lynch_lower_2011}
+Lynch, M. (2011).
+\newblock The {Lower} {Bound} to the {Evolution} of {Mutation} {Rates}.
+\newblock {\em Genome Biology and Evolution\/}, (p. evr066).
+
+\bibitem[{Lynch \& Blanchard(1998)}]{lynch_deleterious_1998}
+Lynch, M., \& Blanchard, J.~L. (1998).
+\newblock Deleterious mutation accumulation in organelle genomes.
+\newblock {\em Genetica\/}, {\em 102-103\/}(1-6), 29--39.
+
+\bibitem[{Lynch et~al.(2006)Lynch, Koskella, \& Schaack}]{lynch_mutation_2006}
+Lynch, M., Koskella, B., \& Schaack, S. (2006).
+\newblock Mutation {Pressure} and the {Evolution} of {Organelle} {Genomic}
+  {Architecture}.
+\newblock {\em Science\/}, {\em 311\/}(5768), 1727--1730.
+
+\bibitem[{Lynch et~al.(2008)Lynch, Sung, Morris, Coffey, Landry, Dopman,
+  Dickinson, Okamoto, Kulkarni, Hartl, \& Thomas}]{lynch_genome-wide_2008}
+Lynch, M., Sung, W., Morris, K., Coffey, N., Landry, C.~R., Dopman, E.~B.,
+  Dickinson, W.~J., Okamoto, K., Kulkarni, S., Hartl, D.~L., \& Thomas, W.~K.
+  (2008).
+\newblock A genome-wide view of the spectrum of spontaneous mutations in yeast.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  105\/}(27), 9272--9277.
+
+\bibitem[{Ma \& O'Farrell(2015)}]{ma_selections_2015}
+Ma, H., \& O'Farrell, P.~H. (2015).
+\newblock Selections that isolate recombinant mitochondrial genomes in animals.
+\newblock {\em eLife\/}, {\em 4\/}, e07247.
+
+\bibitem[{Ma et~al.(2014)Ma, Xu, \& O’Farrell}]{ma_transmission_2014}
+Ma, H., Xu, H., \& O’Farrell, P.~H. (2014).
+\newblock Transmission of mitochondrial mutations and action of purifying
+  selection in {Drosophila}.
+\newblock {\em Nature genetics\/}, {\em 46\/}(4), 393--397.
+
+\bibitem[{Maca-Meyer et~al.(2001)Maca-Meyer, González, Larruga, Flores, \&
+  Cabrera}]{maca-meyer_major_2001}
+Maca-Meyer, N., González, A.~M., Larruga, J.~M., Flores, C., \& Cabrera, V.~M.
+  (2001).
+\newblock Major genomic mitochondrial lineages delineate early human
+  expansions.
+\newblock {\em BMC Genetics\/}, {\em 2\/}, 13.
+
+\bibitem[{Magnacca \& Brown(2010)}]{magnacca_tissue_2010}
+Magnacca, K.~N., \& Brown, M. J.~F. (2010).
+\newblock Tissue segregation of mitochondrial haplotypes in heteroplasmic
+  {Hawaiian} bees: implications for {DNA} barcoding.
+\newblock {\em Molecular Ecology Resources\/}, {\em 10\/}(1), 60--68.
+
+\bibitem[{Mai et~al.(1999)Mai, Ghosh, Frisardi, Rosenthal, Rogers, \&
+  Samuelson}]{mai_hsp60_1999}
+Mai, Z., Ghosh, S., Frisardi, M., Rosenthal, B., Rogers, R., \& Samuelson, J.
+  (1999).
+\newblock Hsp60 {Is} {Targeted} to a {Cryptic} {Mitochondrion}-{Derived}
+  {Organelle} (“{Crypton}”) in the {Microaerophilic} {Protozoan} {Parasite}
+  {Entamoeba} histolytica.
+\newblock {\em Molecular and Cellular Biology\/}, {\em 19\/}(3), 2198--2205.
+
+\bibitem[{Mannella(2006)}]{mannella_structure_2006}
+Mannella, C.~A. (2006).
+\newblock Structure and dynamics of the mitochondrial inner membrane cristae.
+\newblock {\em Biochimica et Biophysica Acta (BBA) - Molecular Cell
+  Research\/}, {\em 1763\/}(5–6), 542--548.
+
+\bibitem[{Marchington et~al.(1997)Marchington, Hartshorne, Barlow, \&
+  Poulton}]{marchington_homopolymeric_1997}
+Marchington, D.~R., Hartshorne, G.~M., Barlow, D., \& Poulton, J. (1997).
+\newblock Homopolymeric tract heteroplasmy in {mtDNA} from tissues and single
+  oocytes: support for a genetic bottleneck.
+\newblock {\em American Journal of Human Genetics\/}, {\em 60\/}(2), 408--416.
+
+\bibitem[{Margulis(1970)}]{margulis_origin_1970}
+Margulis, L. (1970).
+\newblock {\em Origin of {Eukaryotic} {Cells}\/}.
+\newblock Yale University Press.
+
+\bibitem[{Martijn \& Ettema(2013)}]{martijn_archaeon_2013}
+Martijn, J., \& Ettema, T. J.~G. (2013).
+\newblock From archaeon to eukaryote: the evolutionary dark ages of the
+  eukaryotic cell.
+\newblock {\em Biochemical Society Transactions\/}, {\em 41\/}(1), 451--457.
+
+\bibitem[{Martin \& Müller(1998)}]{martin_hydrogen_1998}
+Martin, W., \& Müller, M. (1998).
+\newblock The hydrogen hypothesis for the first eukaryote.
+\newblock {\em Nature\/}, {\em 392\/}(6671), 37--41.
+
+\bibitem[{Martin et~al.(2015)Martin, Garg, \&
+  Zimorski}]{martin_endosymbiotic_2015}
+Martin, W.~F., Garg, S., \& Zimorski, V. (2015).
+\newblock Endosymbiotic theories for eukaryote origin.
+\newblock {\em Phil. Trans. R. Soc. B\/}, {\em 370\/}(1678), 20140330.
+
+\bibitem[{Maté et~al.(2007)Maté, Di~Rocco, Zambelli, \&
+  Vidal-Rioja}]{mate_mitochondrial_2007}
+Maté, M.~L., Di~Rocco, F., Zambelli, A., \& Vidal-Rioja, L. (2007).
+\newblock Mitochondrial heteroplasmy in {Control} {Region} {DNA} of {South}
+  {American} camelids.
+\newblock {\em Small Ruminant Research\/}, {\em 71\/}(1–3), 123--129.
+
+\bibitem[{McKenna et~al.(2010)McKenna, Hanna, Banks, Sivachenko, Cibulskis,
+  Kernytsky, Garimella, Altshuler, Gabriel, Daly, \&
+  DePristo}]{mckenna_genome_2010}
+McKenna, A., Hanna, M., Banks, E., Sivachenko, A., Cibulskis, K., Kernytsky,
+  A., Garimella, K., Altshuler, D., Gabriel, S., Daly, M., \& DePristo, M.~A.
+  (2010).
+\newblock The {Genome} {Analysis} {Toolkit}: a {MapReduce} framework for
+  analyzing next-generation {DNA} sequencing data.
+\newblock {\em Genome Research\/}, {\em 20\/}(9), 1297--1303.
+
+\bibitem[{Medvedev et~al.(2010)Medvedev, Fiume, Dzamba, Smith, \&
+  Brudno}]{medvedev_detecting_2010}
+Medvedev, P., Fiume, M., Dzamba, M., Smith, T., \& Brudno, M. (2010).
+\newblock Detecting copy number variation with mated short reads.
+\newblock {\em Genome Research\/}, {\em 20\/}(11), 1613--1622.
+
+\bibitem[{Mercer \& Roth(2003)}]{mercer_effects_2003}
+Mercer, J.~M., \& Roth, V.~L. (2003).
+\newblock The {Effects} of {Cenozoic} {Global} {Change} on {Squirrel}
+  {Phylogeny}.
+\newblock {\em Science\/}, {\em 299\/}(5612), 1568--1572.
+
+\bibitem[{Meusel \& Moritz(1993)}]{meusel_transfer_1993}
+Meusel, M.~S., \& Moritz, R. F.~A. (1993).
+\newblock Transfer of paternal mitochondrial {DNA} during fertilization of
+  honeybee ({Apis} mellifera {L}.) eggs.
+\newblock {\em Current Genetics\/}, {\em 24\/}(6), 539--543.
+
+\bibitem[{Mjelle et~al.(2008)Mjelle, Karlsen, Jørgensen, Moum, \&
+  Johansen}]{mjelle_halibut_2008}
+Mjelle, K.~A., Karlsen, B.~O., Jørgensen, T.~E., Moum, T., \& Johansen, S.~D.
+  (2008).
+\newblock Halibut mitochondrial genomes contain extensive heteroplasmic tandem
+  repeat arrays involved in {DNA} recombination.
+\newblock {\em BMC Genomics\/}, {\em 9\/}(1), 10.
+
+\bibitem[{Molnar et~al.(2011)Molnar, Bartelmes, Dinkelacker, Witte, \&
+  Sommer}]{molnar_mutation_2011}
+Molnar, R.~I., Bartelmes, G., Dinkelacker, I., Witte, H., \& Sommer, R.~J.
+  (2011).
+\newblock Mutation {Rates} and {Intraspecific} {Divergence} of the
+  {Mitochondrial} {Genome} of {Pristionchus} pacificus.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 28\/}(8), 2317--2326.
+
+\bibitem[{Monnat \& Loeb(1985)}]{monnat_nucleotide_1985}
+Monnat, R.~J., \& Loeb, L.~A. (1985).
+\newblock Nucleotide sequence preservation of human mitochondrial {DNA}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}, {\em 82\/}(9), 2895--2899.
+
+\bibitem[{Muller(1964)}]{muller_relation_1964}
+Muller, H.~J. (1964).
+\newblock The relation of recombination to mutational advance.
+\newblock {\em Mutation Research/Fundamental and Molecular Mechanisms of
+  Mutagenesis\/}, {\em 1\/}(1), 2--9.
+
+\bibitem[{Muller(1994)}]{muller_hydrogenosome_1994}
+Muller, M. (1994).
+\newblock The hydrogenosome.
+\newblock {\em Journal of general microbiology\/}, {\em 139\/}(12), 2879--89.
+
+\bibitem[{Müller et~al.(2012)Müller, Mentel, Hellemond, Henze, Woehle, Gould,
+  Yu, Giezen, Tielens, \& Martin}]{muller_biochemistry_2012}
+Müller, M., Mentel, M., Hellemond, J. J.~v., Henze, K., Woehle, C., Gould,
+  S.~B., Yu, R.-Y., Giezen, M. v.~d., Tielens, A. G.~M., \& Martin, W.~F.
+  (2012).
+\newblock Biochemistry and {Evolution} of {Anaerobic} {Energy} {Metabolism} in
+  {Eukaryotes}.
+\newblock {\em Microbiology and Molecular Biology Reviews\/}, {\em 76\/}(2),
+  444--495.
+
+\bibitem[{Nabholz et~al.(2008)Nabholz, Glémin, \&
+  Galtier}]{nabholz_strong_2008}
+Nabholz, B., Glémin, S., \& Galtier, N. (2008).
+\newblock Strong {Variations} of {Mitochondrial} {Mutation} {Rate} across
+  {Mammals}—the {Longevity} {Hypothesis}.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 25\/}(1), 120--130.
+
+\bibitem[{Nakada et~al.(2001)Nakada, Inoue, Ono, Isobe, Ogura, Goto, Nonaka, \&
+  Hayashi}]{nakada_inter-mitochondrial_2001}
+Nakada, K., Inoue, K., Ono, T., Isobe, K., Ogura, A., Goto, Y.~I., Nonaka, I.,
+  \& Hayashi, J.~I. (2001).
+\newblock Inter-mitochondrial complementation: {Mitochondria}-specific system
+  preventing mice from expression of disease phenotypes by mutant {mtDNA}.
+\newblock {\em Nature Medicine\/}, {\em 7\/}(8), 934--940.
+
+\bibitem[{Nakamura et~al.(2011)Nakamura, Oshima, Morimoto, Ikeda, Yoshikawa,
+  Shiwa, Ishikawa, Linak, Hirai, Takahashi, Altaf-Ul-Amin, Ogasawara, \&
+  Kanaya}]{nakamura_sequence-specific_2011}
+Nakamura, K., Oshima, T., Morimoto, T., Ikeda, S., Yoshikawa, H., Shiwa, Y.,
+  Ishikawa, S., Linak, M.~C., Hirai, A., Takahashi, H., Altaf-Ul-Amin, M.,
+  Ogasawara, N., \& Kanaya, S. (2011).
+\newblock Sequence-specific error profile of {Illumina} sequencers.
+\newblock {\em Nucleic Acids Research\/}, (p. gkr344).
+
+\bibitem[{Nass(1966)}]{nass_circularity_1966}
+Nass, M.~M. (1966).
+\newblock The circularity of mitochondrial {DNA}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}, {\em 56\/}(4), 1215--1222.
+
+\bibitem[{Nass \& Nass(1963)}]{nass_intramitochondrial_1963}
+Nass, M.~M., \& Nass, S. (1963).
+\newblock Intramitochondrial {Fibers} {With} {DNA} {Characteristics}. {I}.
+  {Fixation} and {Electron} {Staining} {Reactions}.
+\newblock {\em The Journal of Cell Biology\/}, {\em 19\/}, 593--611.
+
+\bibitem[{Naue et~al.(2015)Naue, Hörer, Sänger, Strobl, Hatzer-Grubwieser,
+  Parson, \& Lutz-Bonengel}]{naue_evidence_2015}
+Naue, J., Hörer, S., Sänger, T., Strobl, C., Hatzer-Grubwieser, P., Parson,
+  W., \& Lutz-Bonengel, S. (2015).
+\newblock Evidence for frequent and tissue-specific sequence heteroplasmy in
+  human mitochondrial {DNA}.
+\newblock {\em Mitochondrion\/}, {\em 20\/}, 82--94.
+
+\bibitem[{Neiman et~al.(2010)Neiman, Hehman, Miller, Logsdon, \&
+  Taylor}]{neiman_accelerated_2010}
+Neiman, M., Hehman, G., Miller, J.~T., Logsdon, J.~M., \& Taylor, D.~R. (2010).
+\newblock Accelerated {Mutation} {Accumulation} in {Asexual} {Lineages} of a
+  {Freshwater} {Snail}.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 27\/}(4), 954--963.
+
+\bibitem[{Ness et~al.(2015)Ness, Morgan, Vasanthakrishnan, Colegrave, \&
+  Keightley}]{ness_extensive_2015}
+Ness, R.~W., Morgan, A.~D., Vasanthakrishnan, R.~B., Colegrave, N., \&
+  Keightley, P.~D. (2015).
+\newblock Extensive de novo mutation rate variation between individuals and
+  across the genome of {Chlamydomonas} reinhardtii.
+\newblock {\em Genome Research\/}, (p. gr.191494.115).
+
+\bibitem[{Normark \& Moran(2000)}]{normark_testing_2000}
+Normark, B.~B., \& Moran, N.~A. (2000).
+\newblock Testing for the accumulation of deleterious mutations in asexual
+  eukaryote genomes using molecular sequences.
+\newblock {\em Journal of Natural History\/}, {\em 34\/}(9), 1719--1729.
+
+\bibitem[{Olivo et~al.(1983)Olivo, Van~de Walle, Laipis, \&
+  Hauswirth}]{olivo_nucleotide_1983}
+Olivo, P.~D., Van~de Walle, M.~J., Laipis, P.~J., \& Hauswirth, W.~W. (1983).
+\newblock Nucleotide sequence evidence for rapid genotypic shifts in the bovine
+  mitochondrial {DNA} {D}-loop.
+\newblock {\em Nature\/}, {\em 306\/}(5941), 400--402.
+
+\bibitem[{Paduan \& Ribolla(2008)}]{paduan_mitochondrial_2008}
+Paduan, K. D.~S., \& Ribolla, P. E.~M. (2008).
+\newblock Mitochondrial {DNA} {Polymorphism} and {Heteroplasmy} in
+  {Populations} of {Aedes} aegypti in {Brazil}.
+\newblock {\em Journal of Medical Entomology\/}, {\em 45\/}(1), 59--67.
+
+\bibitem[{Pagliarini et~al.(2008)Pagliarini, Calvo, Chang, Sheth, Vafai, Ong,
+  Walford, Sugiana, Boneh, Chen, Hill, Vidal, Evans, Thorburn, Carr, \&
+  Mootha}]{pagliarini_mitochondrial_2008}
+Pagliarini, D.~J., Calvo, S.~E., Chang, B., Sheth, S.~A., Vafai, S.~B., Ong,
+  S.-E., Walford, G.~A., Sugiana, C., Boneh, A., Chen, W.~K., Hill, D.~E.,
+  Vidal, M., Evans, J.~G., Thorburn, D.~R., Carr, S.~A., \& Mootha, V.~K.
+  (2008).
+\newblock A mitochondrial protein compendium elucidates complex {I} disease
+  biology.
+\newblock {\em Cell\/}, {\em 134\/}(1), 112--123.
+
+\bibitem[{Parfrey et~al.(2011)Parfrey, Lahr, Knoll, \&
+  Katz}]{parfrey_estimating_2011}
+Parfrey, L.~W., Lahr, D. J.~G., Knoll, A.~H., \& Katz, L.~A. (2011).
+\newblock Estimating the timing of early eukaryotic diversification with
+  multigene molecular clocks.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  108\/}(33), 13624--13629.
+
+\bibitem[{Parr et~al.(2006)Parr, Maki, Reguly, Dakubo, Aguirre, Wittock,
+  Robinson, Jakupciak, \& Thayer}]{parr_pseudo-mitochondrial_2006}
+Parr, R.~L., Maki, J., Reguly, B., Dakubo, G.~D., Aguirre, A., Wittock, R.,
+  Robinson, K., Jakupciak, J.~P., \& Thayer, R.~E. (2006).
+\newblock The pseudo-mitochondrial genome influences mistakes in heteroplasmy
+  interpretation.
+\newblock {\em BMC Genomics\/}, {\em 7\/}, 185.
+
+\bibitem[{Payne et~al.(2013)Payne, Wilson, Yu-Wai-Man, Coxhead, Deehan,
+  Horvath, Taylor, Samuels, Santibanez-Koref, \&
+  Chinnery}]{payne_universal_2013}
+Payne, B. A.~I., Wilson, I.~J., Yu-Wai-Man, P., Coxhead, J., Deehan, D.,
+  Horvath, R., Taylor, R.~W., Samuels, D.~C., Santibanez-Koref, M., \&
+  Chinnery, P.~F. (2013).
+\newblock Universal heteroplasmy of human mitochondrial {DNA}.
+\newblock {\em Human Molecular Genetics\/}, {\em 22\/}(2), 384--390.
+
+\bibitem[{Percudani(2013)}]{percudani_microbial_2013}
+Percudani, R. (2013).
+\newblock A {Microbial} {Metagenome} ({Leucobacter} sp.) in {Caenorhabditis}
+  {Whole} {Genome} {Sequences}.
+\newblock {\em Bioinformatics and Biology Insights\/}, {\em 7\/}, 55--72.
+
+\bibitem[{Perkins et~al.(1997)Perkins, Renken, Martone, Young, Ellisman, \&
+  Frey}]{perkins_electron_1997}
+Perkins, G., Renken, C., Martone, M.~E., Young, S.~J., Ellisman, M., \& Frey,
+  T. (1997).
+\newblock Electron tomography of neuronal mitochondria: three-dimensional
+  structure and organization of cristae and membrane contacts.
+\newblock {\em Journal of Structural Biology\/}, {\em 119\/}(3), 260--272.
+
+\bibitem[{Perkins \& Frey(2000)}]{perkins_recent_2000}
+Perkins, G.~A., \& Frey, T.~G. (2000).
+\newblock Recent structural insight into mitochondria gained by microscopy.
+\newblock {\em Micron\/}, {\em 31\/}(1), 97--111.
+
+\bibitem[{Piganeau \& Eyre-Walker(2009)}]{piganeau_evidence_2009}
+Piganeau, G., \& Eyre-Walker, A. (2009).
+\newblock Evidence for {Variation} in the {Effective} {Population} {Size} of
+  {Animal} {Mitochondrial} {DNA}.
+\newblock {\em PLoS ONE\/}, {\em 4\/}(2).
+
+\bibitem[{Piganeau et~al.(2004)Piganeau, Gardner, \&
+  Eyre-Walker}]{piganeau_broad_2004}
+Piganeau, G., Gardner, M., \& Eyre-Walker, A. (2004).
+\newblock A broad survey of recombination in animal mitochondria.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 21\/}(12), 2319--2325.
+
+\bibitem[{Quinlan \& Hall(2010)}]{quinlan_bedtools:_2010}
+Quinlan, A.~R., \& Hall, I.~M. (2010).
+\newblock {BEDTools}: a flexible suite of utilities for comparing genomic
+  features.
+\newblock {\em Bioinformatics (Oxford, England)\/}, {\em 26\/}(6), 841--842.
+
+\bibitem[{{R Core Team}(2014)}]{r_core_team_r:_2014}
+{R Core Team} (2014).
+\newblock {\em R: {A} language and environment for statistical computing. {R}
+  {Foundation} for {Statistical} {Computing}, {Vienna}, {Austria}. 2013\/}.
+\newblock ISBN 3-900051-07-0.
+
+\bibitem[{Radojičić et~al.(2015)Radojičić, Krizmanić, Kasapidis, \&
+  Zouros}]{radojicic_extensive_2015}
+Radojičić, J.~M., Krizmanić, I., Kasapidis, P., \& Zouros, E. (2015).
+\newblock Extensive mitochondrial heteroplasmy in hybrid water frog
+  ({Pelophylax} spp.) populations from {Southeast} {Europe}.
+\newblock {\em Ecology and Evolution\/}, {\em 5\/}(20), 4529--4541.
+
+\bibitem[{Rafelski(2013)}]{rafelski_mitochondrial_2013}
+Rafelski, S.~M. (2013).
+\newblock Mitochondrial network morphology: building an integrative,
+  geometrical view.
+\newblock {\em BMC Biology\/}, {\em 11\/}, 71.
+
+\bibitem[{Rand \& Harrison(1986)}]{rand_mitochondrial_1986}
+Rand, D.~M., \& Harrison, R.~G. (1986).
+\newblock Mitochondrial {DNA} {Transmission} {Genetics} in {Crickets}.
+\newblock {\em Genetics\/}, {\em 114\/}(3), 955--970.
+
+\bibitem[{Robinson et~al.(2011)Robinson, Thorvaldsdóttir, Winckler, Guttman,
+  Lander, Getz, \& Mesirov}]{robinson_integrative_2011}
+Robinson, J.~T., Thorvaldsdóttir, H., Winckler, W., Guttman, M., Lander,
+  E.~S., Getz, G., \& Mesirov, J.~P. (2011).
+\newblock Integrative genomics viewer.
+\newblock {\em Nature Biotechnology\/}, {\em 29\/}(1), 24--26.
+
+\bibitem[{Robison et~al.(2015)Robison, Balvin, Schal, Vargo, \&
+  Booth}]{robison_extensive_2015}
+Robison, G.~A., Balvin, O., Schal, C., Vargo, E.~L., \& Booth, W. (2015).
+\newblock Extensive {Mitochondrial} {Heteroplasmy} in {Natural} {Populations}
+  of a {Resurging} {Human} {Pest}, the {Bed} {Bug} ({Hemiptera}: {Cimicidae}).
+\newblock {\em Journal of Medical Entomology\/}, (p. tjv055).
+
+\bibitem[{Sager \& Ramanis(1968)}]{sager_pattern_1968}
+Sager, R., \& Ramanis, Z. (1968).
+\newblock The {Pattern} of {Segregation} of {Cytoplasmic} {Genes} in
+  {Chlamydomonas}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}, {\em 61\/}(1), 324--331.
+
+\bibitem[{Samuels et~al.(2013)Samuels, Li, Li, Song, Torstenson, Boyd~Clay,
+  Rokas, Thornton-Wells, Moore, Hughes, Hoffman, Haines, Murdock, Mortlock, \&
+  Williams}]{samuels_recurrent_2013}
+Samuels, D.~C., Li, C., Li, B., Song, Z., Torstenson, E., Boyd~Clay, H., Rokas,
+  A., Thornton-Wells, T.~A., Moore, J.~H., Hughes, T.~M., Hoffman, R.~D.,
+  Haines, J.~L., Murdock, D.~G., Mortlock, D.~P., \& Williams, S.~M. (2013).
+\newblock Recurrent {Tissue}-{Specific} {mtDNA} {Mutations} {Are} {Common} in
+  {Humans}.
+\newblock {\em PLoS Genet\/}, {\em 9\/}(11), e1003929.
+
+\bibitem[{Sato et~al.(2005)Sato, Nakada, Akimoto, Ishikawa, Ono, Shitara,
+  Yonekawa, \& Hayashi}]{sato_rare_2005}
+Sato, A., Nakada, K., Akimoto, M., Ishikawa, K., Ono, T., Shitara, H.,
+  Yonekawa, H., \& Hayashi, J.-I. (2005).
+\newblock Rare creation of recombinant {mtDNA} haplotypes in mammalian tissues.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  102\/}(17), 6057--6062.
+
+\bibitem[{Sato \& Sato(2013)}]{sato_maternal_2013}
+Sato, M., \& Sato, K. (2013).
+\newblock Maternal inheritance of mitochondrial {DNA} by diverse mechanisms to
+  eliminate paternal mitochondrial {DNA}.
+\newblock {\em Biochimica et Biophysica Acta (BBA) - Molecular Cell
+  Research\/}, {\em 1833\/}(8), 1979--1984.
+
+\bibitem[{Satoh \& Kuroiwa(1991)}]{satoh_organization_1991}
+Satoh, M., \& Kuroiwa, T. (1991).
+\newblock Organization of multiple nucleoids and {DNA} molecules in
+  mitochondria of a human cell.
+\newblock {\em Experimental Cell Research\/}, {\em 196\/}(1), 137--140.
+
+\bibitem[{Saxer et~al.(2012)Saxer, Havlak, Fox, Quance, Gupta, Fofanov,
+  Strassmann, \& Queller}]{saxer_whole_2012}
+Saxer, G., Havlak, P., Fox, S.~A., Quance, M.~A., Gupta, S., Fofanov, Y.,
+  Strassmann, J.~E., \& Queller, D.~C. (2012).
+\newblock Whole {Genome} {Sequencing} of {Mutation} {Accumulation} {Lines}
+  {Reveals} a {Low} {Mutation} {Rate} in the {Social} {Amoeba} {Dictyostelium}
+  discoideum.
+\newblock {\em PLoS ONE\/}, {\em 7\/}(10), e46759.
+
+\bibitem[{Schirmer et~al.(2015)Schirmer, Ijaz, D'Amore, Hall, Sloan, \&
+  Quince}]{schirmer_insight_2015}
+Schirmer, M., Ijaz, U.~Z., D'Amore, R., Hall, N., Sloan, W.~T., \& Quince, C.
+  (2015).
+\newblock Insight into biases and sequencing errors for amplicon sequencing
+  with the {Illumina} {MiSeq} platform.
+\newblock {\em Nucleic Acids Research\/}, (p. gku1341).
+
+\bibitem[{Schon et~al.(2012)Schon, DiMauro, \& Hirano}]{schon_human_2012}
+Schon, E.~A., DiMauro, S., \& Hirano, M. (2012).
+\newblock Human mitochondrial {DNA}: roles of inherited and somatic mutations.
+\newblock {\em Nature Reviews Genetics\/}, {\em 13\/}(12), 878--890.
+
+\bibitem[{Schrider et~al.(2011)Schrider, Hourmozdi, \&
+  Hahn}]{schrider_pervasive_2011}
+Schrider, D.~R., Hourmozdi, J.~N., \& Hahn, M.~W. (2011).
+\newblock Pervasive multinucleotide mutational events in eukaryotes.
+\newblock {\em Current biology: CB\/}, {\em 21\/}(12), 1051--1054.
+
+\bibitem[{Schröder et~al.(2014)Schröder, Hsu, Boyle, Macintyre, Cmero,
+  Tothill, Johnstone, Shackleton, \& Papenfuss}]{schroder_socrates:_2014}
+Schröder, J., Hsu, A., Boyle, S.~E., Macintyre, G., Cmero, M., Tothill, R.~W.,
+  Johnstone, R.~W., Shackleton, M., \& Papenfuss, A.~T. (2014).
+\newblock Socrates: identification of genomic rearrangements in tumour genomes
+  by re-aligning soft clipped reads.
+\newblock {\em Bioinformatics\/}, {\em 30\/}(8), 1064--1072.
+
+\bibitem[{Schwartz \& Vissing(2002)}]{schwartz_paternal_2002}
+Schwartz, M., \& Vissing, J. (2002).
+\newblock Paternal {Inheritance} of {Mitochondrial} {DNA}.
+\newblock {\em New England Journal of Medicine\/}, {\em 347\/}(8), 576--580.
+
+\bibitem[{Schwarz(2013)}]{schwarz_mitochondrial_2013}
+Schwarz, T.~L. (2013).
+\newblock Mitochondrial {Trafficking} in {Neurons}.
+\newblock {\em Cold Spring Harbor Perspectives in Biology\/}, {\em 5\/}(6),
+  a011304.
+
+\bibitem[{Searcy(1992)}]{searcy_origins_1992}
+Searcy, D. (1992).
+\newblock Origins of mitochondria and chloroplasts from sulphur-based
+  symbioses.
+\newblock In {\em The origin and evolution of the cell\/}, (pp. 47--78).
+  Singapore: World Scientific.
+
+\bibitem[{Seyfert et~al.(2008)Seyfert, Cristescu, Frisse, Schaack, Thomas, \&
+  Lynch}]{seyfert_rate_2008}
+Seyfert, A.~L., Cristescu, M. E.~A., Frisse, L., Schaack, S., Thomas, W.~K., \&
+  Lynch, M. (2008).
+\newblock The {Rate} and {Spectrum} of {Microsatellite} {Mutation} in
+  {Caenorhabditis} elegans and {Daphnia} pulex.
+\newblock {\em Genetics\/}, {\em 178\/}(4), 2113--2121.
+
+\bibitem[{Sharpley et~al.(2012)Sharpley, Marciniak, Eckel-Mahan, McManus,
+  Crimi, Waymire, Lin, Masubuchi, Friend, Koike, Chalkia, MacGregor,
+  Sassone-Corsi, \& Wallace}]{sharpley_heteroplasmy_2012}
+Sharpley, M., Marciniak, C., Eckel-Mahan, K., McManus, M., Crimi, M., Waymire,
+  K., Lin, C., Masubuchi, S., Friend, N., Koike, M., Chalkia, D., MacGregor,
+  G., Sassone-Corsi, P., \& Wallace, D. (2012).
+\newblock Heteroplasmy of {Mouse} {mtDNA} {Is} {Genetically} {Unstable} and
+  {Results} in {Altered} {Behavior} and {Cognition}.
+\newblock {\em Cell\/}, {\em 151\/}(2), 333--343.
+
+\bibitem[{Shendure \& Ji(2008)}]{shendure_next-generation_2008}
+Shendure, J., \& Ji, H. (2008).
+\newblock Next-generation {DNA} sequencing.
+\newblock {\em Nature Biotechnology\/}, {\em 26\/}(10), 1135--1145.
+
+\bibitem[{Shiflett \& Johnson(2010)}]{shiflett_mitochondrion-related_2010}
+Shiflett, A., \& Johnson, P.~J. (2010).
+\newblock Mitochondrion-related {Organelles} in {Parasitic} {Eukaryotes}.
+\newblock {\em Annual review of microbiology\/}, {\em 64\/}, 409--429.
+
+\bibitem[{Shoubridge \& Wai(2007)}]{shoubridge_mitochondrial_2007}
+Shoubridge, E.~A., \& Wai, T. (2007).
+\newblock Mitochondrial {DNA} and the {Mammalian} {Oocyte}.
+\newblock vol.~77 of {\em The {Mitochondrion} in the {Germline} and {Early}
+  {Development}\/}, (pp. 87--111). Academic Press.
+
+\bibitem[{Shuster et~al.(1988)Shuster, Rubenstein, \&
+  Wallace}]{shuster_mitochondrial_1988}
+Shuster, R.~C., Rubenstein, A.~J., \& Wallace, D.~C. (1988).
+\newblock Mitochondrial {DNA} in anucleate human blood cells.
+\newblock {\em Biochemical and Biophysical Research Communications\/}, {\em
+  155\/}(3), 1360--1365.
+
+\bibitem[{Smith et~al.(2002)Smith, Webster, \&
+  Ellegren}]{smith_deterministic_2002}
+Smith, N. G.~C., Webster, M.~T., \& Ellegren, H. (2002).
+\newblock Deterministic {Mutation} {Rate} {Variation} in the {Human} {Genome}.
+\newblock {\em Genome Research\/}, {\em 12\/}(9), 1350--1356.
+
+\bibitem[{Sniegowski et~al.(2000)Sniegowski, Gerrish, Johnson, \&
+  Shaver}]{sniegowski_evolution_2000}
+Sniegowski, P.~D., Gerrish, P.~J., Johnson, T., \& Shaver, A. (2000).
+\newblock The evolution of mutation rates: separating causes from consequences.
+\newblock {\em BioEssays: News and Reviews in Molecular, Cellular and
+  Developmental Biology\/}, {\em 22\/}(12), 1057--1066.
+
+\bibitem[{Solignac et~al.(1984)Solignac, Génermont, Monnerot, \&
+  Mounolou}]{solignac_genetics_1984}
+Solignac, M., Génermont, J., Monnerot, M., \& Mounolou, J.-C. (1984).
+\newblock Genetics of mitochondria in {Drosophila}: {mtDNA} inheritance in
+  heteroplasmic strains of {D}. mauritiana.
+\newblock {\em Molecular and General Genetics MGG\/}, {\em 197\/}(2), 183--188.
+
+\bibitem[{Solignac et~al.(1983)Solignac, Monnerot, \&
+  Mounolou}]{solignac_mitochondrial_1983}
+Solignac, M., Monnerot, M., \& Mounolou, J.~C. (1983).
+\newblock Mitochondrial {DNA} heteroplasmy in {Drosophila} mauritiana.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}, {\em 80\/}(22), 6942--6946.
+
+\bibitem[{Stechmann et~al.(2008)Stechmann, Hamblin, Pérez-Brocal, Gaston,
+  Richmond, van~der Giezen, Clark, \& Roger}]{stechmann_organelles_2008}
+Stechmann, A., Hamblin, K., Pérez-Brocal, V., Gaston, D., Richmond, G.,
+  van~der Giezen, M., Clark, C., \& Roger, A.~J. (2008).
+\newblock Organelles in {Blastocystis} that {Blur} the {Distinction} between
+  {Mitochondria} and {Hydrogenosomes}.
+\newblock {\em Current Biology\/}, {\em 18\/}(8), 580--585.
+
+\bibitem[{Stewart \& Chinnery(2015)}]{stewart_dynamics_2015}
+Stewart, J.~B., \& Chinnery, P.~F. (2015).
+\newblock The dynamics of mitochondrial {DNA} heteroplasmy: implications for
+  human health and disease.
+\newblock {\em Nature Reviews Genetics\/}, {\em 16\/}(9), 530--542.
+
+\bibitem[{Stewart \& Larsson(2014)}]{stewart_keeping_2014}
+Stewart, J.~B., \& Larsson, N.-G. (2014).
+\newblock Keeping {mtDNA} in {Shape} between {Generations}.
+\newblock {\em PLoS Genetics\/}, {\em 10\/}(10).
+
+\bibitem[{Strong et~al.(2014)Strong, Xu, Morici, Splinter Bon-Durant, Baddoo,
+  Lin, Fewell, Taylor, \& Flemington}]{strong_microbial_2014}
+Strong, M.~J., Xu, G., Morici, L., Splinter Bon-Durant, S., Baddoo, M., Lin,
+  Z., Fewell, C., Taylor, C.~M., \& Flemington, E.~K. (2014).
+\newblock Microbial {Contamination} in {Next} {Generation} {Sequencing}:
+  {Implications} for {Sequence}-{Based} {Analysis} of {Clinical} {Samples}.
+\newblock {\em PLoS Pathogens\/}, {\em 10\/}(11).
+
+\bibitem[{Sturtevant(1937)}]{sturtevant_effects_1937}
+Sturtevant, A.~H. (1937).
+\newblock On the {Effects} of {Selection} on {Mutation} {Rate}.
+\newblock {\em The Quarterly Review of Biology\/}, {\em 12\/}(4), 464--467.
+
+\bibitem[{Sung et~al.(2012)Sung, Tucker, Doak, Choi, Thomas, \&
+  Lynch}]{sung_extraordinary_2012}
+Sung, W., Tucker, A.~E., Doak, T.~G., Choi, E., Thomas, W.~K., \& Lynch, M.
+  (2012).
+\newblock Extraordinary genome stability in the ciliate {Paramecium}
+  tetraurelia.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  109\/}(47), 19339--19344.
+
+\bibitem[{Supek \& Lehner(2015)}]{supek_differential_2015}
+Supek, F., \& Lehner, B. (2015).
+\newblock Differential {DNA} mismatch repair underlies mutation rate variation
+  across the human genome.
+\newblock {\em Nature\/}, {\em 521\/}(7550), 81--84.
+
+\bibitem[{Sutovsky(2003)}]{sutovsky_ubiquitin-dependent_2003}
+Sutovsky, P. (2003).
+\newblock Ubiquitin-dependent proteolysis in mammalian spermatogenesis,
+  fertilization, and sperm quality control: killing three birds with one stone.
+\newblock {\em Microscopy Research and Technique\/}, {\em 61\/}(1), 88--102.
+
+\bibitem[{Tait \& Green(2010)}]{tait_mitochondria_2010}
+Tait, S. W.~G., \& Green, D.~R. (2010).
+\newblock Mitochondria and cell death: outer membrane permeabilization and
+  beyond.
+\newblock {\em Nature Reviews Molecular Cell Biology\/}, {\em 11\/}(9),
+  621--632.
+
+\bibitem[{Taylor et~al.(2002)Taylor, Zeyl, \& Cooke}]{taylor_conflicting_2002}
+Taylor, D.~R., Zeyl, C., \& Cooke, E. (2002).
+\newblock Conflicting levels of selection in the accumulation of mitochondrial
+  defects in {Saccharomyces} cerevisiae.
+\newblock {\em Proceedings of the National Academy of Sciences\/}, {\em
+  99\/}(6), 3690--3694.
+
+\bibitem[{Taylor \& Turnbull(2005)}]{taylor_mitochondrial_2005}
+Taylor, R.~W., \& Turnbull, D.~M. (2005).
+\newblock Mitochondrial {DNA} mutations in human disease.
+\newblock {\em Nature reviews. Genetics\/}, {\em 6\/}(5), 389--402.
+
+\bibitem[{Thomas \& Wilson(1991)}]{thomas_mode_1991}
+Thomas, W.~K., \& Wilson, A.~C. (1991).
+\newblock Mode and {Tempo} of {Molecular} {Evolution} in the {Nematode}
+  {Caenorhabditis}: {Cytochrome} {Oxidase} {II} and {Calmodulin} {Sequences}.
+\newblock {\em Genetics\/}, {\em 128\/}(2), 269--279.
+
+\bibitem[{Thyagarajan et~al.(1996)Thyagarajan, Padua, \&
+  Campbell}]{thyagarajan_mammalian_1996}
+Thyagarajan, B., Padua, R.~A., \& Campbell, C. (1996).
+\newblock Mammalian mitochondria possess homologous {DNA} recombination
+  activity.
+\newblock {\em The Journal of Biological Chemistry\/}, {\em 271\/}(44),
+  27536--27543.
+
+\bibitem[{Thyagarajan et~al.(2012)Thyagarajan, Wang, Barcelo, Koh, \&
+  Yuan}]{thyagarajan_mitochondrial_2012}
+Thyagarajan, B., Wang, R., Barcelo, H., Koh, W.-P., \& Yuan, J.-M. (2012).
+\newblock Mitochondrial {Copy} {Number} is {Associated} with {Colorectal}
+  {Cancer} {Risk}.
+\newblock {\em Cancer Epidemiology Biomarkers \& Prevention\/}, {\em 21\/}(9),
+  1574--1581.
+
+\bibitem[{Thyagarajan et~al.(2013)Thyagarajan, Wang, Nelson, Barcelo, Koh, \&
+  Yuan}]{thyagarajan_mitochondrial_2013}
+Thyagarajan, B., Wang, R., Nelson, H., Barcelo, H., Koh, W.-P., \& Yuan, J.-M.
+  (2013).
+\newblock Mitochondrial {DNA} copy number is associated with breast cancer
+  risk.
+\newblock {\em PloS One\/}, {\em 8\/}(6), e65968.
+
+\bibitem[{Timmis et~al.(2004)Timmis, Ayliffe, Huang, \&
+  Martin}]{timmis_endosymbiotic_2004}
+Timmis, J.~N., Ayliffe, M.~A., Huang, C.~Y., \& Martin, W. (2004).
+\newblock Endosymbiotic gene transfer: organelle genomes forge eukaryotic
+  chromosomes.
+\newblock {\em Nature Reviews Genetics\/}, {\em 5\/}(2), 123--135.
+
+\bibitem[{Tovar(2007)}]{tovar_mitosomes_2007}
+Tovar, J. (2007).
+\newblock Mitosomes of {Parasitic} {Protozoa}: {Biology} and {Evolutionary}
+  {Significance}.
+\newblock In D.~W.~F. Martin, \& D.~M. Müller (Eds.), {\em Origin of
+  {Mitochondria} and {Hydrogenosomes}\/}, (pp. 277--300). Springer Berlin
+  Heidelberg.
+\newblock DOI: 10.1007/978-3-540-38502-8\_11.
+
+\bibitem[{Tsaousis et~al.(2005)Tsaousis, Martin, Ladoukakis, Posada, \&
+  Zouros}]{tsaousis_widespread_2005}
+Tsaousis, A.~D., Martin, D.~P., Ladoukakis, E.~D., Posada, D., \& Zouros, E.
+  (2005).
+\newblock Widespread recombination in published animal {mtDNA} sequences.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 22\/}(4), 925--933.
+
+\bibitem[{Ujvari et~al.(2007)Ujvari, Dowton, \&
+  Madsen}]{Ujvari_mitochondrial_2007}
+Ujvari, B., Dowton, M., \& Madsen, T. (2007).
+\newblock Mitochondrial {DNA} recombination in a free-ranging {Australian}
+  lizard.
+\newblock {\em Biology Letters\/}, {\em 3\/}(2), 189--192.
+
+\bibitem[{Umar \& Kunkel(1996)}]{umar_dna-replication_1996}
+Umar, A., \& Kunkel, T.~A. (1996).
+\newblock {DNA}-replication fidelity, mismatch repair and genome instability in
+  cancer cells.
+\newblock In {\em {EJB} {Reviews} 1996\/}, no. 1996 in {EJB} {Reviews}, (pp.
+  163--173). Springer Berlin Heidelberg.
+
+\bibitem[{Ursprung \& Schabtach(1965)}]{ursprung_fertilization_1965}
+Ursprung, H., \& Schabtach, E. (1965).
+\newblock Fertilization in tunicates: {Loss} of the paternal mitochondrion
+  prior to sperm entry.
+\newblock {\em Journal of Experimental Zoology\/}, {\em 159\/}(3), 379--383.
+
+\bibitem[{Vellai \& Vida(1999)}]{vellai_origin_1999}
+Vellai, T., \& Vida, G. (1999).
+\newblock The origin of eukaryotes: the difference between prokaryotic and
+  eukaryotic cells.
+\newblock {\em Proceedings of the Royal Society B: Biological Sciences\/}, {\em
+  266\/}(1428), 1571--1577.
+
+\bibitem[{Viguera et~al.(2001)Viguera, Canceill, \&
+  Ehrlich}]{viguera_replication_2001}
+Viguera, E., Canceill, D., \& Ehrlich, S. (2001).
+\newblock Replication slippage involves {DNA} polymerase pausing and
+  dissociation.
+\newblock {\em The EMBO Journal\/}, {\em 20\/}(10), 2587--2595.
+
+\bibitem[{von Dohlen et~al.(2001)von Dohlen, Kohler, Alsop, \&
+  McManus}]{von_dohlen_mealybug_2001}
+von Dohlen, C.~D., Kohler, S., Alsop, S.~T., \& McManus, W.~R. (2001).
+\newblock Mealybug β-proteobacterial endosymbionts contain γ-proteobacterial
+  symbionts.
+\newblock {\em Nature\/}, {\em 412\/}(6845), 433--436.
+
+\bibitem[{Wai et~al.(2008)Wai, Teoli, \& Shoubridge}]{wai_mitochondrial_2008}
+Wai, T., Teoli, D., \& Shoubridge, E.~A. (2008).
+\newblock The mitochondrial {DNA} genetic bottleneck results from replication
+  of a subpopulation of genomes.
+\newblock {\em Nature Genetics\/}, {\em 40\/}(12), 1484--1488.
+
+\bibitem[{Wall et~al.(2014)Wall, Tang, Zerbe, Kvale, Kwok, Schaefer, \&
+  Risch}]{wall_estimating_2014}
+Wall, J.~D., Tang, L.~F., Zerbe, B., Kvale, M.~N., Kwok, P.-Y., Schaefer, C.,
+  \& Risch, N. (2014).
+\newblock Estimating genotype error rates from high-coverage next-generation
+  sequence data.
+\newblock {\em Genome Research\/}, (p. gr.168393.113).
+
+\bibitem[{Wang et~al.(2012)Wang, Blades, Ding, Sultana, \&
+  Parmigiani}]{wang_estimation_2012}
+Wang, X., Blades, N., Ding, J., Sultana, R., \& Parmigiani, G. (2012).
+\newblock Estimation of sequencing error rates in short reads.
+\newblock {\em BMC Bioinformatics\/}, {\em 13\/}, 185.
+
+\bibitem[{Wawrzyniak et~al.(2008)Wawrzyniak, Roussel, Diogon, Couloux, Texier,
+  Tan, Vivarès, Delbac, Wincker, \& El~Alaoui}]{wawrzyniak_complete_2008}
+Wawrzyniak, I., Roussel, M., Diogon, M., Couloux, A., Texier, C., Tan, K.
+  S.~W., Vivarès, C.~P., Delbac, F., Wincker, P., \& El~Alaoui, H. (2008).
+\newblock Complete circular {DNA} in the mitochondria-like organelles of
+  {Blastocystis} hominis.
+\newblock {\em International Journal for Parasitology\/}, {\em 38\/}(12),
+  1377--1382.
+
+\bibitem[{Weir \& Schluter(2007)}]{weir_latitudinal_2007}
+Weir, J.~T., \& Schluter, D. (2007).
+\newblock The {Latitudinal} {Gradient} in {Recent} {Speciation} and
+  {Extinction} {Rates} of {Birds} and {Mammals}.
+\newblock {\em Science\/}, {\em 315\/}(5818), 1574--1576.
+
+\bibitem[{Welch \& Bromham(2005)}]{welch_molecular_2005}
+Welch, J.~J., \& Bromham, L. (2005).
+\newblock Molecular dating when rates vary.
+\newblock {\em Trends in Ecology \& Evolution\/}, {\em 20\/}(6), 320--327.
+
+\bibitem[{Weller et~al.(2014)Weller, Rödelsperger, Eberhardt, Molnar, \&
+  Sommer}]{weller_opposing_2014}
+Weller, A.~M., Rödelsperger, C., Eberhardt, G., Molnar, R.~I., \& Sommer,
+  R.~J. (2014).
+\newblock Opposing forces of {A}/{T}-biased mutations and {G}/{C}-biased gene
+  conversions shape the genome of the nematode {Pristionchus} pacificus.
+\newblock {\em Genetics\/}, {\em 196\/}(4), 1145--1152.
+
+\bibitem[{White et~al.(2008)White, Wolff, Pierson, \&
+  Gemmell}]{white_revealing_2008}
+White, D.~J., Wolff, J.~N., Pierson, M., \& Gemmell, N.~J. (2008).
+\newblock Revealing the hidden complexities of {mtDNA} inheritance.
+\newblock {\em Molecular Ecology\/}, {\em 17\/}(23), 4925--4942.
+
+\bibitem[{Williams et~al.(2002)Williams, Hirt, Lucocq, \&
+  Embley}]{williams_mitochondrial_2002}
+Williams, B. A.~P., Hirt, R.~P., Lucocq, J.~M., \& Embley, T.~M. (2002).
+\newblock A mitochondrial remnant in the microsporidian {Trachipleistophora}
+  hominis.
+\newblock {\em Nature\/}, {\em 418\/}(6900), 865--869.
+
+\bibitem[{Williams et~al.(2012)Williams, Foster, Nye, Cox, \&
+  Embley}]{williams_congruent_2012}
+Williams, T.~A., Foster, P.~G., Nye, T. M.~W., Cox, C.~J., \& Embley, T.~M.
+  (2012).
+\newblock A congruent phylogenomic signal places eukaryotes within the
+  {Archaea}.
+\newblock {\em Proceedings of the Royal Society of London B: Biological
+  Sciences\/}, (p. rspb20121795).
+
+\bibitem[{Wilm et~al.(2012)Wilm, Aw, Bertrand, Yeo, Ong, Wong, Khor, Petric,
+  Hibberd, \& Nagarajan}]{wilm_lofreq:_2012}
+Wilm, A., Aw, P. P.~K., Bertrand, D., Yeo, G. H.~T., Ong, S.~H., Wong, C.~H.,
+  Khor, C.~C., Petric, R., Hibberd, M.~L., \& Nagarajan, N. (2012).
+\newblock {LoFreq}: a sequence-quality aware, ultra-sensitive variant caller
+  for uncovering cell-population heterogeneity from high-throughput sequencing
+  datasets.
+\newblock {\em Nucleic Acids Research\/}, {\em 40\/}(22), 11189--11201.
+
+\bibitem[{Wolff \& Gemmell(2008)}]{wolff_lost_2008}
+Wolff, J.~N., \& Gemmell, N.~J. (2008).
+\newblock Lost in the zygote: the dilution of paternal {mtDNA} upon
+  fertilization.
+\newblock {\em Heredity\/}, {\em 101\/}(5), 429--434.
+
+\bibitem[{Wolff et~al.(2013)Wolff, Nafisinia, Sutovsky, \&
+  Ballard}]{wolff_paternal_2013}
+Wolff, J.~N., Nafisinia, M., Sutovsky, P., \& Ballard, J. W.~O. (2013).
+\newblock Paternal transmission of mitochondrial {DNA} as an integral part of
+  mitochondrial inheritance in metapopulations of {Drosophila} simulans.
+\newblock {\em Heredity\/}, {\em 110\/}(1), 57--62.
+
+\bibitem[{Wolff et~al.(2011)Wolff, White, Woodhams, White, \&
+  Gemmell}]{wolff_strength_2011}
+Wolff, J.~N., White, D.~J., Woodhams, M., White, H.~E., \& Gemmell, N.~J.
+  (2011).
+\newblock The {Strength} and {Timing} of the {Mitochondrial} {Bottleneck} in
+  {Salmon} {Suggests} a {Conserved} {Mechanism} in {Vertebrates}.
+\newblock {\em PLoS ONE\/}, {\em 6\/}(5).
+
+\bibitem[{Wolstenholme(1992)}]{wolstenholme_animal_1992}
+Wolstenholme, D.~R. (1992).
+\newblock Animal mitochondrial {DNA}: structure and evolution.
+\newblock {\em International Review of Cytology\/}, {\em 141\/}, 173--216.
+
+\bibitem[{Xu et~al.(2011)Xu, Omilian, \& Cristescu}]{xu_high_2011}
+Xu, S., Omilian, A.~R., \& Cristescu, M.~E. (2011).
+\newblock High {Rate} of {Large}-{Scale} {Hemizygous} {Deletions} in
+  {Asexually} {Propagating} {Daphnia}: {Implications} for the {Evolution} of
+  {Sex}.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 28\/}(1), 335--342.
+
+\bibitem[{Xu et~al.(2012)Xu, Schaack, Seyfert, Choi, Lynch, \&
+  Cristescu}]{xu_high_2012}
+Xu, S., Schaack, S., Seyfert, A., Choi, E., Lynch, M., \& Cristescu, M.~E.
+  (2012).
+\newblock High {Mutation} {Rates} in the {Mitochondrial} {Genomes} of {Daphnia}
+  pulex.
+\newblock {\em Molecular Biology and Evolution\/}, {\em 29\/}(2), 763--769.
+
+\bibitem[{Yarlett et~al.(1981)Yarlett, Hann, Lloyd, \&
+  Williams}]{yarlett_hydrogenosomes_1981}
+Yarlett, N., Hann, A.~C., Lloyd, D., \& Williams, A. (1981).
+\newblock Hydrogenosomes in the rumen protozoon {Dasytricha} ruminantium
+  {Schuberg}.
+\newblock {\em Biochemical Journal\/}, {\em 200\/}(2), 365--372.
+
+\bibitem[{Yarlett et~al.(1986)Yarlett, Orpin, Munn, Yarlett, \&
+  Greenwood}]{yarlett_hydrogenosomes_1986}
+Yarlett, N., Orpin, C.~G., Munn, E.~A., Yarlett, N.~C., \& Greenwood, C.~A.
+  (1986).
+\newblock Hydrogenosomes in the rumen fungus {Neocallimastix} patriciarum.
+\newblock {\em Biochemical Journal\/}, {\em 236\/}(3), 729--739.
+
+\bibitem[{Ye et~al.(2014)Ye, Samuels, Clark, \& Guo}]{ye_high-throughput_2014}
+Ye, F., Samuels, D.~C., Clark, T., \& Guo, Y. (2014).
+\newblock High-throughput sequencing in mitochondrial {DNA} research.
+\newblock {\em Mitochondrion\/}, {\em 17\/}, 157--163.
+
+\bibitem[{Youle \& Bliek(2012)}]{youle_mitochondrial_2012}
+Youle, R.~J., \& Bliek, A. M. v.~d. (2012).
+\newblock Mitochondrial {Fission}, {Fusion}, and {Stress}.
+\newblock {\em Science\/}, {\em 337\/}(6098), 1062--1065.
+
+\bibitem[{Yutin et~al.(2009)Yutin, Wolf, Wolf, \& Koonin}]{yutin_origins_2009}
+Yutin, N., Wolf, M.~Y., Wolf, Y.~I., \& Koonin, E.~V. (2009).
+\newblock The origins of phagocytosis and eukaryogenesis.
+\newblock {\em Biology Direct\/}, {\em 4\/}(1), 9.
+
+\bibitem[{Zamzami et~al.(1995)Zamzami, Marchetti, Castedo, Zanin, Vayssière,
+  Petit, \& Kroemer}]{zamzami_reduction_1995}
+Zamzami, N., Marchetti, P., Castedo, M., Zanin, C., Vayssière, J.~L., Petit,
+  P.~X., \& Kroemer, G. (1995).
+\newblock Reduction in mitochondrial potential constitutes an early
+  irreversible step of programmed lymphocyte death in vivo.
+\newblock {\em The Journal of Experimental Medicine\/}, {\em 181\/}(5),
+  1661--1672.
+
+\bibitem[{Zhao et~al.(2004)Zhao, Li, Guo, Hu, Liu, Gong, Wang, Feng, \&
+  Wu}]{zhao_further_2004}
+Zhao, X., Li, N., Guo, W., Hu, X., Liu, Z., Gong, G., Wang, A., Feng, J., \&
+  Wu, C. (2004).
+\newblock Further evidence for paternal inheritance of mitochondrial {DNA} in
+  the sheep ({Ovis} aries).
+\newblock {\em Heredity\/}, {\em 93\/}(4), 399--403.
+
+\bibitem[{Zhou et~al.(2010)Zhou, Wang, Wang, Schatten, \& Zhang}]{zhou_is_2010}
+Zhou, R.~R., Wang, B., Wang, J., Schatten, H., \& Zhang, Y.~Z. (2010).
+\newblock Is the mitochondrial cloud the selection machinery for preferentially
+  transmitting wild-type {mtDNA} between generations? {Rewinding} {Müller}’s
+  ratchet efficiently.
+\newblock {\em Current Genetics\/}, {\em 56\/}(2), 101--107.
+
+\bibitem[{Zhou et~al.(2014)Zhou, Zhu, Gui, Huang, Long, Wang, Chen, Yin, Jiang,
+  Dai, Tang, He, \& Zhong}]{zhou_peripheral_2014}
+Zhou, W., Zhu, M., Gui, M., Huang, L., Long, Z., Wang, L., Chen, H., Yin, Y.,
+  Jiang, X., Dai, Y., Tang, Y., He, L., \& Zhong, K. (2014).
+\newblock Peripheral blood mitochondrial {DNA} copy number is associated with
+  prostate cancer risk and tumor burden.
+\newblock {\em PloS One\/}, {\em 9\/}(10), e109470.
+
+\bibitem[{Zouros et~al.(1992)Zouros, Freeman, Ball, \&
+  Pogson}]{zouros_direct_1992}
+Zouros, E., Freeman, K.~R., Ball, A.~O., \& Pogson, G.~H. (1992).
+\newblock Direct evidence for extensive paternal mitochondrial {DNA}
+  inheritance in the marine mussel {Mytilus}.
+\newblock {\em Nature\/}, {\em 359\/}(6394), 412--414.
+
+\bibitem[{Zouros et~al.(1994)Zouros, Oberhauser~Ball, Saavedra, \&
+  Freeman}]{zouros_unusual_1994}
+Zouros, E., Oberhauser~Ball, A., Saavedra, C., \& Freeman, K.~R. (1994).
+\newblock An unusual type of mitochondrial {DNA} inheritance in the blue mussel
+  {Mytilus}.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}, {\em 91\/}(16), 7463--7467.
+
+\bibitem[{Zuckerkandl \& Pauling(1965)}]{Zuckerkandl_evolutionary_1965}
+Zuckerkandl, E., \& Pauling, L. (1965).
+\newblock Evolutionary {Divergence} and {Convergence} in {Proteins}.
+\newblock In H.~J. Vogel (Ed.), {\em Evolving {Genes} and {Proteins}\/}, (pp.
+  97--166). Academic Press.
+
+\end{thebibliography}
